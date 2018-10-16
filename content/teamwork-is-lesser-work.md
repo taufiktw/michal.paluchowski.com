@@ -14,6 +14,8 @@ tags:
 
 The whole is greater than the sum of its parts---that's not true. Not universally, at least. Science has known this since the 19th century, that a proper team working together will often deliver _less_, and of lesser quality, than if the same individuals were working on their own. It's high time we __question the holy grail of "teamwork"__ to see exactly where it works and where it fails.
 
+<!--more-->
+
 I had an eye-opening moment reading Professor Richard Wiseman's beautifully practical book [59 Seconds: Think a Little, Change a Lot][amazon-59-seconds]:
 
 > In the late 1880s, a French agricultural engineer named Max Ringelmann became obsessed with trying to make workers as efficient as possible. (...) One of Ringelmann’s studies involved asking people to pull on a rope to lift increasingly heavy weights. Perhaps not unreasonably, Ringelmann expected people in groups to work harder than those on their own. But the results revealed the opposite pattern. __When working alone, individuals lifted around 185 pounds, but they managed only an average of 140 pounds per person when working as a group.__ [emphasis mine]
@@ -51,7 +53,7 @@ The traditional response to "Agile doesn't work" is usually that, to the contrar
 
 Just because some people can [finish an IronMan race in 8 hours][ironman-jan-frodeno], that doesn't mean everyone can, and in fact, very few people will ever be able to complete the distance in _any_ time. It's a very personal experience, of talent, character and choices, just like work style.
 
-![Fair Exam](/wp-content/uploads/sites/2/2017/02/fair-exam-climb-tree.jpg)
+![Fair Exam](/img/teamwork-is-lesser-work/fair-exam-climb-tree.jpg)
 
 Why then do we continue to try and swim upstream? Work against human nature?
 

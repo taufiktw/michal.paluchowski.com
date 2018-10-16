@@ -13,6 +13,8 @@ tags:
 
 "Last year we acquired [company] and ..." I was chatting with my friends about some recent business of the [company I'm part of][stepstone]. They looked at me funny and interrupted "you keep saying '_we_'. That's sooo _unusual_."
 
+<!--more-->
+
 I always talked this way. How else should I be talking about the organization I spent over 6 years with, [advanced through three positions][linkedin-mpaluchowski] and delivered numerous projects now used by millions of our users. I'm __definitely making an impact__ on the day to day business of the company and __if I wasn't able to do so I'd be long gone__ and contributing elsewhere.
 
 Apparently I'm and odd outlier here. Many (_most?_) people would refer to places they spend half their waking hours at for decades as some variation of "the company I work for" as if they firmly tried to distance themselves from someplace unpleasant. That's what we do with people---when we don't like somebody __we use words to create distance__:

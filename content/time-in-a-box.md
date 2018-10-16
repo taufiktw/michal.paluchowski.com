@@ -9,10 +9,12 @@ tags:
   - psychology
   - risk management
   - timeboxing
-image: https://michal.paluchowski.com/files/2014/04/cat-kitchen-timer.jpg
+image: /img/time-in-a-box/cat-kitchen-timer.jpg
 ---
 
 I often cannot say know how long it'll take me to code some feature, or whether I'll succeed at all, given the requirements. This might be because I've never attempted anything like that before, or because the technical constraints around it make the solution hardly plausible. In times like these, I set myself a box of time.
+
+<!--more-->
 
 Timeboxing is a [practice well known][aatimeboxing] to [Agile][mpmeanagile] practitioners. A sprint or iteration is a timebox, during which we work in pursuit of a milestone for a **fixed** amount of time, then stop to inspect:
 
@@ -45,7 +47,7 @@ Finally, by imposing scarcity on time, timeboxing helps sharpen focus and defeat
 
 If you're like me, you'll look for tools to help you track the timeboxes. **Don't overcomplicate it.** It's a very simple technique that will work *just fine* with a simple kitchen timer (though you might want to use something more discrete, like a cell phone timer, since these things tick and ring like crazy):
 
-![Cat kitchen timer](/wp-content/uploads/sites/2/2014/04/cat-kitchen-timer.jpg)
+![Cat kitchen timer](/img/time-in-a-box/cat-kitchen-timer.jpg)
 
 and for timeboxes spanning multiple days, just mark the cut-off on a calendar that **you're sure to see.** Teams working with Scrum will likely want to highlight the end of their timebox on a Scrum Board, where everyone can see it.
 

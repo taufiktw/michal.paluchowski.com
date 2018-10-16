@@ -12,6 +12,8 @@ tags:
 
 Source code needs to read like a book, with characters introduced in proper order and the plot unfolding logically for the reader to follow. Naming is key. The right word used in the right place---a function, class, variable name---will help avoid many a bug. That's where a thesaurus will come in handy.
 
+<!--more-->
+
 A thesaurus is a reference of words with similar meanings, used "to find the word, or words, by which [an] idea may be most fitly and aptly expressed" (as [the architect of, apparently, the best-known English thesaurus wrote][peter-mark-roget]). That's _exactly_ what we aim for in code---express our intent for future programmers, including ourselves, to precisely understand. It's easy to write code computers understand. When they don't they tell you at compilation time.
 
 A function or class name must "most fitly and aptly" match what it's doing. A variable name must likewise accurately describe what it holds.

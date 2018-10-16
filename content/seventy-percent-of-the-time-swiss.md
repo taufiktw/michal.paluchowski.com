@@ -10,10 +10,12 @@ tags:
   - dilemmas
   - employment
   - travel
-image: https://michal.paluchowski.com/files/2015/11/flag-of-switzerland.png
+image: /img/seventy-percent-of-the-time-swiss/flag-of-switzerland.png
 ---
 
 Boarding an airplane on Monday morning, coffee in hand, yawning, flying to Zürich for a week of alternating between the customer's office and hotel, then back in the air on Friday evening to reach base---my home in Warsaw for the weekend. That was the offer I was given a while ago, good money, challenging work. I replied "_no, thank you_".
+
+<!--more-->
 
 Mind you, I am by no means bound to where I'm living currently, even though I love it here. There are many other extraordinary spots around the world where I could see myself moving. It's just this particular arrangement that wouldn't suit me---torn Schrödinger-style between two locations, __neither really here nor there__.
 

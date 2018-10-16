@@ -13,6 +13,8 @@ tags:
 
 The backlog is a _mess_. The order is random. There's no grouping or coherence, let alone a _vision_ of any kind. Stories are unclear, if at all described, and sprint planning takes forever while developers try to figure out what the product owner wants. I heard these complaints over and over again from teams, and then I had a chance to become a product owner myself. Turns out it's __not much different from a developer's work__.
 
+<!--more-->
+
 ## TDD
 
 Taking an [agile approach][mp_mean_agile] means __making small steps and testing__ how they influence the product. Just like TDD in programming:

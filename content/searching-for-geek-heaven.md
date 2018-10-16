@@ -15,6 +15,8 @@ menu:
 
 We'd _love_ to love our jobs. To the point where we can't stand how long a weekend is, before we may go back to work on Monday. Utopia? Not at all. I know people who genuinely love their jobs, who found their geek and non-geek heavens. And I have my own criteria for evaluating companies I would consider joining.
 
+<!--more-->
+
 There are three qualities that combined would make a company a Geek Heaven:
 
 1. IT is _central_ to business,
@@ -64,7 +66,7 @@ What you want instead is a business pursuit you can believe in - big or small, l
 
 If you look at [Maslow's pyramid of needs][wpmaslow], the three qualities above align precisely with the top two layers of Esteem and Self-actualization:
 
-![Maslow's hierarchy of needs](/wp-content/uploads/sites/2/2014/05/maslows-hierarchy.png)
+![Maslow's hierarchy of needs](/img/searching-for-geek-heaven/maslows-hierarchy.png)
 
 It goes without saying, that in order for a company to become a Geek Heaven, the bottom layers need already to be catered for. You certainly won't feel any good working at a place, where you may get fired any minute, you're [getting peanuts for your work][mpdevelopercost] or which is physically unsafe.
 

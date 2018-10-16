@@ -10,10 +10,12 @@ tags:
   - cost
   - minimalism
   - vagabonding
-image: https://michal.paluchowski.com/files/2015/04/moving-truck.jpg
+image: /img/a-corporate-career-may-take-you-places/moving-truck.jpg
 ---
 
 Fame and fortune, in smooth ascent from line employment to richly compensated CEO, is what so many find appealing in working for global corporations. While not in vogue among the hordes of eager entrepreneurs and freelancers we have these days, for many people it remains a perfectly valid career choice. Success depends on how soon you'll realize that this path is not smooth at all, often times surprising, and always comes with a price tag.
+
+<!--more-->
 
 Big companies differ from smaller ones, or [start-ups][mpstartups], in that they offer plenty of space. With thousands of employees worldwide, there is a broad selection of positions situated vertically and horizontally from yours, matching your ambitions and talents. They also offer greater _liquidity_ (to borrow the investing term), in that at any given moment __there will always be positions open somewhere__. Maybe a person got promoted, leaving her past desk vacant, or maybe it's a whole new opportunity---a new division being built or branch getting expanded.
 
@@ -64,5 +66,5 @@ A conscious decision and a light lifestyle. Certainly not for everyone, but if y
 [thmbiz]: http://www.thmbiz.co.uk/About+Us.php
 [thmbiztraining]: http://www.thmbiz.co.uk/Management+Training.php
 [wpsunkcost]: http://en.wikipedia.org/wiki/Sunk_costs
-[dilbertelbonia]: /wp-content/uploads/sites/2/2015/04/dilbert-elbonia-spy-e1429379323566.gif
+[dilbertelbonia]: /img/a-corporate-career-may-take-you-places/dilbert-elbonia-spy-e1429379323566.gif
 

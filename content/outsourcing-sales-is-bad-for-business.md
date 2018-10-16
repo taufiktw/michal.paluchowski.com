@@ -12,6 +12,8 @@ tags:
 
 If a development team is the heart of an IT firm, then the sales team is its face. The eyes that scan markets, the mouth that speaks about products, ears that listen to customers and the nose that sniffs for opportunities and problems. There are successful companies with great sales and lousy technology, while marvellous technologies with bad salesmen perish quickly. Why would you want to operate your business without a face?
 
+<!--more-->
+
 The first thing you'll find out when trying to work in sales is that it's __hard__. It requires constantly exposing yourself to rejection, ignorance, abuse and a lot of pressure. You get targets, which are strictly bound to your salary and therefore living standard, if not survival. Then if one-on-one meetings with customers weren't bad enough, you have salesmen from other companies competing for the same dollars you're trying to collect. Why not help yourself? Let another entity do the sales for you:
 
 - they're __more experienced__. They're focused on just sales and nothing else.

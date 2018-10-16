@@ -13,6 +13,8 @@ tags:
 
 Perhaps it is. But does he _know_ it? Have you _told_ him? In teamwork, as in marriage, implicit expectations create tension that's bound to explode at some point. Disarming that bomb is as easy as saying "could you?"
 
+<!--more-->
+
 Some jobs have tighter-defined responsibilities than others. Across the spectrum of employment that's obvious---if you're, say, a train driver your job is to safely steer a few thousand tons of steel, carrying a few hundred human lives to their desired destinations. If you're an artist, there's much less specificity.
 
 Even **within the IT industry there are vast differences in job descriptions**. A DBA is tasked with maintaining dabatase servers, often including developing data models and optimizing queries for efficiency. For a developer, things get a bit more blurry, being expected not just to write code, but these days often also setting up server infrastructure, configuring deployments, monitoring service health and, perhaps hardest of all, understanding and catering for user needs.

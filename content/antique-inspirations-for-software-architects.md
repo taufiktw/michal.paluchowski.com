@@ -9,12 +9,14 @@ tags:
   - quality
   - software architecture
   - usability
-image: https://michal.paluchowski.com/files/2015/11/millau-viaduct.jpg
+image: /img/antique-inspirations-for-software-architects/millau-viaduct.jpg
 menu:
   - readingList
 ---
 
 The Roman architect [Vitruvius][wp_vitruvius] around the year 15 BC completed his impressive, ten-volume treatise on architecture---[De Architectura][wp_de_architectura]. It covers every possible type of man-made structure ever needed by the people of his time, but starts out wisely by prescribing _basic_ qualities that good architecture _must_ embody:
+
+<!--more-->
 
 > All... must be built with due reference to __durability__, [__utility__], and __beauty__. Durability will be assured when foundations are carried down to the solid ground and materials wisely and liberally selected; [utility], when the arrangement of the apartments is faultless and presents no hindrance to use, and when each class of building is assigned to its suitable and appropriate exposure; and beauty, when the appearance of the work is pleasing and in good taste, and when its members are in due proportion according to correct principles of symmetry. [emphasis mine, and I prefer 'utility' over 'convenience' in the original quote]
 >
@@ -39,7 +41,7 @@ We're using these values to [ask better questions][mb_feed_it_back]. Is it durab
 *[UI]: User Interface
 
 [flickr_millau_viaduct]: https://www.flickr.com/photos/flissphil/2892568426
-[img_millau_viaduct]: /wp-content/uploads/sites/2/2015/11/millau-viaduct.jpg
+[img_millau_viaduct]: /img/antique-inspirations-for-software-architects/millau-viaduct.jpg
 [maps_millau_viaduct]: https://goo.gl/maps/t5R2pjBj5Ys
 [mb_agile_approach]: {{< ref "agile-is-the-business-approach-to-software-en.md" >}}
 [mb_api]: {{< ref "api-thinking-vs-client-thinking.md" >}}

@@ -8,6 +8,8 @@ menu:
 
 I'm what you would call a "full stack developer" these days, based in Warsaw, Poland. I deliver software, from the front-end all the way to the depths of the back-end.
 
+<!--more-->
+
 This blog is an __outlet for my thinking about the business of software__---both the technology and the people building it. I write mostly for selfish reasons. One, I simply like writing. Two, it's an excellent way to test my thinking, by exposing holes that become evident only when a loose network of thoughts must be organized into an orderly, linear piece of text. Three, publishing stuff for anyone to see sets a certain standard and takes away any excuses I may have for sloppy writing. It's good practice too.
 
 If you're finding any of the content published here useful, do let me know.

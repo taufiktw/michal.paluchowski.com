@@ -10,12 +10,14 @@ tags:
   - hiring
   - image
   - marketing
-image: https://michal.paluchowski.com/files/2014/06/nobody-likes-me.png
+image: /img/respectfully-rejected/nobody-likes-me.png
 menu:
   - readingList
 ---
 
 "I'm sure _somebody_ will get in touch with you", sneered the Google developer, closing a phone interview I went through years ago. By then I knew I wouldn't get the job, but these words and their tone convinced me that I shouldn't try again for years to come. The way in which a company rejects job candidates speaks tomes about its culture.
+
+<!--more-->
 
 Google was merely one of many similar experiences. I once called up a company to ask for my interview's results, having received no answer. The lady I connected with looked up my application and replied, "oh, says here you know too little about the software development process". Thanks for telling me.
 
@@ -25,7 +27,7 @@ Google was merely one of many similar experiences. I once called up a company to
 - Larry Page and Sergey Brin [couldn't sell Google for a measly $1M to Yahoo, Excite and Infoseek][pagebrinhistory], later rejected Yahoo's $3B buyout offer.
 - J.K. Rowling's [Harry Potter was rejected by several publishers][jkrowlingrejected], one accepted and she became one of the richest women in the world.
 
-![Peanuts: Nobody likes me](/wp-content/uploads/sites/2/2014/06/nobody-likes-me.png)
+![Peanuts: Nobody likes me](/img/respectfully-rejected/nobody-likes-me.png)
 
 It's tempting to think of a candidate who didn't pass the interview as just not smart or talented enough. That's __almost always bollocks__. It's much more likely that the person you just met either
 

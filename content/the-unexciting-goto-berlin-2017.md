@@ -7,10 +7,12 @@ categories:
 tags:
   - conferences
   - distributed systems
-image: https://michal.paluchowski.com/wp-content/uploads/sites/2/2017/11/goto-berlin-badge.jpg
+image: /img/the-unexciting-goto-berlin-2017/goto-berlin-badge.jpg
 ---
 
 Unexciting. That's the one word I would use to describe this year's edition of GOTO Berlin. And I'm suspecting it's a sign of advancing maturity. Just not sure whether it's the industry's, or my own.
+
+<!--more-->
 
 This year was my second time at GOTO Berlin, after I attended in December 2015. I came back because the first time I was really satisfied with the content. Lots of fresh, practical, accessible ideas, well-presented (unlike, say, QCon London 2016). Plus, the keynotes were tremendous fun.
 
@@ -43,5 +45,5 @@ It may be that the industry has changed. Reflected on itself and found that __te
 [gotober-2015-space-shuttle]: https://www.youtube.com/watch?v=AyrRoKN_kvg
 [rust-lang]: https://www.rust-lang.org/
 [webassembly]: http://webassembly.org/
-[goto-berlin-convention-hall]: https://michal.paluchowski.com/wp-content/uploads/sites/2/2017/11/goto-berlin-convention-room.jpg
+[goto-berlin-convention-hall]: /img/the-unexciting-goto-berlin-2017/goto-berlin-convention-room.jpg
 

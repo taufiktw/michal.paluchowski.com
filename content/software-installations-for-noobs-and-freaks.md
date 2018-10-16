@@ -13,6 +13,8 @@ tags:
 
 "Copying Windows files", "Getting files ready for installation", "Installing features" … and so on. Installing Windows 8 is an experience pretty much the same as it's ever been, where too much information is presented to those who don't care, and not nearly enough to those who do. On top of that I'm informed that "my computer will restart several times." Lovely.
 
+<!--more-->
+
 Computers used to be the domain of hackers - people, who wanted to push the limits of what's possible and know all about the machines they were using. Then the PC came along (or the Mac, if you're *that* kind of fan) and all sorts of people strolled into the computer world, not always willingly. Most software changed along the way, but the installation processes were mostly left out of the changes.
 
 Every piece of software - as big as an operating system or as small as an instant messenger - should have two modes of installation:

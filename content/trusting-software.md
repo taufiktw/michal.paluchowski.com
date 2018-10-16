@@ -13,6 +13,8 @@ tags:
 
 Where's the Save button? Scrolling up and down the settings page, finding none. The trend is nowadays to just skip those and save all changes automatically. Just like we don't need the Stop button ever since the iPod came out. We just need Pause.
 
+<!--more-->
+
 The trouble with this approach is trust. Most users do, and always will, approach any computer system with a slight discomfort. On the surface, there's this colorful array of boxes and buttons, maybe with a few cute icons. But underneath, there's this made-in-hell machinery, that operates on the verge of magic. Nobody knows how it works "under the hood", besides the creators maybe. Least the users.
 
 When I modify settings and click an explicit Save button, I assume my changes were saved. But what if there is no such button? And no message that says anything about saving? I feel this inner discomfort knowing that perhaps something just malfunctioned, the app probably saved my changes, but maybe it didn't.

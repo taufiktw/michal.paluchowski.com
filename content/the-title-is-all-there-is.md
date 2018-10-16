@@ -13,6 +13,8 @@ tags:
 
 I was invited once to [speak]({{< ref "if-you-dont-appear-you-disappear.md" >}}) at a [Toastmasters]({{< ref "we-should-all-be-toastmasters.md" >}}) Leadership Institute, about the Leadership Track of the organization's educational program. I crafted a short title:
 
+<!--more-->
+
 > The Leader In You
 
 designed to arouse curiosity, while a short companion abstract provided information on what the _actual_ content was. Happy with the result, I went over to the event only to realize, that the nifty abstract had been stripped, and the only thing printed in agendas was the __title__.

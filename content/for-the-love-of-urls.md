@@ -9,10 +9,12 @@ tags:
   - search engines
   - seo
   - user experience
-image: https://michal.paluchowski.com/files/2014/04/github-404.png
+image: /img/for-the-love-of-urls/github-404.png
 ---
 
 [Aula Polska][aulapolska] is a regular meetup of Warsaw's entrepreneurial community, that I loved to attend until... its website had a facelift. It took a while to realize that I wasn't seeing announcements of new meetings anymore. They broke their URLs, including the RSS feed I was subscribing to. I scoffed, *how dumb!* And then I thought "*wait a second... did I check the URL for Michał's Bites' RSS feed after [moving to Wordpress][mpwordpress]?*" I was the pot calling the kettle black.
+
+<!--more-->
 
 The process that breaks the links around the web is known as [link rot][wplinkrot] - an epidemic deteriorating the online experience:
 
@@ -32,7 +34,7 @@ What *should have* helped were server logs, parsed by any reasonable software li
 
 Some pages will be truly gone - removed and nowhere present in your new website structure. These should correctly return a `404 (not found)` or `410 (gone)` HTTP code. You can still go the extra mile and make the experience of hitting links like those slightly more bearable.
 
-![GitHub's 404 page](/wp-content/uploads/sites/2/2014/04/github-404.png)
+![GitHub's 404 page](/img/for-the-love-of-urls/github-404.png)
 
 It can be fun, self mocking, but on top of that you should provide users with a way to move forward from there:
 

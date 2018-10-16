@@ -12,10 +12,12 @@ tags:
   - microservices
   - software architecture
   - tdd
-image: https://michal.paluchowski.com/files/2015/05/craftconf-stage.jpg
+image: /img/the-state-of-the-craft-at-craftconf-2015/craftconf-stage.jpg
 ---
 
 [CraftConf][craftconf] in sunny Budapest aims to be _the_ conference in Central Europe where developers share what's state of the art in building software. Joining the [2015 edition][craftconf15] was an easy choice, after the first edition a year earlier received rave reviews from attendees. Three days, 16 talks and a workshop later I emerged with 6,062 words worth of notes, distilled into a few broad trends that seem to represent the edge of the industry right now.
+
+<!--more-->
 
 ![CraftConf 2015 Stage][craftconfstage]
 
@@ -106,7 +108,7 @@ The 2015 CraftConf was only the _second_ edition, but already organized with suc
 [apprenticeshippatterns]: http://chimera.labs.oreilly.com/books/1234000001813/
 [craftconf15]: http://craft-conf.com/2015
 [craftconf]: http://craft-conf.com/
-[craftconfstage]: /wp-content/uploads/sites/2/2015/05/craftconf-stage.jpg
+[craftconfstage]: /img/the-state-of-the-craft-at-craftconf-2015/craftconf-stage.jpg
 [ghnetflix]: https://github.com/Netflix/
 [mpagile]: {{< ref "what-does-it-mean-to-be-agile.md" >}}
 [mpapithinking]: {{< ref "api-thinking-vs-client-thinking.md" >}}

@@ -13,6 +13,8 @@ tags:
 
 You get this often when managing people. Somebody, often outside of your chain of command, comes to complain about your subordinate. "*He's stubborn*." "*She's doing this wrong*." "*He exceeded his competencies*." and anything else you can think of. What do you do?
 
+<!--more-->
+
 There are two natural reactions to this situation:
 
 1. you go to talk to your subordinate, get her version, decide who's opinion is correct and persuade the other side to comply.

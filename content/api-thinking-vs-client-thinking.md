@@ -8,14 +8,16 @@ tags:
   - api
   - programming
   - software architecture
-image: https://michal.paluchowski.com/files/2014/07/apis-apis-everywhere.png
+image: /img/api-thinking-vs-client-thinking/apis-apis-everywhere.png
 ---
 
 Have an API? No? So obscure. _Everybody_ has one these days as APIs were the foundation of online success in the last decade. But __building a good API is hard__. In fact, the mindset that's required is peculiar enough to consider separating people who will build it from those who will use it.
 
+<!--more-->
+
 APIs were all the rage that, along with [AJAX][wpajax], [kicked off Web 2.0][wpweb20]. By allowing others to tap into the features and data of your application, you could spark a whole community of clients and mash-ups, making you the __platform__. Twitter is a well known child of this era, where an [API was built first][twitterrapi], then Twitter's own clients as well as all the independent ones on top of it.
 
-![APIs, APIs everywhere](/wp-content/uploads/sites/2/2014/07/apis-apis-everywhere.png)
+![APIs, APIs everywhere](/img/api-thinking-vs-client-thinking/apis-apis-everywhere.png)
 
 This obviously takes away control of the application's future from its creators, putting it into the hands of a broader community. Example being again Twitter, where features such as [retweets were only added to the platform][twitterretweet] once they became widely used in independent clients. At some point Twitter decided to [reclaim control of its brand and user experience][twittercontrol], which started to diverge between applications. Certain requirements were imposed on how tweets may be displayed and what functions should be available. Break those and you may be kicked off the API completely.
 

@@ -14,6 +14,8 @@ tags:
 
 You want to look good for Google. You want it to *understand* your website, so that it comes up in results often and stands out. You also want Facebook and Twitter to display your links prominently in their crowded timelines. Because you want all that, you'll likely turn to structured data markup, like I did with the new design of Michał's Bites. And then you'll shake your head in disbelief.
 
+<!--more-->
+
 Designing a fresh look for Michał's Bites nudged me to look into [Schema.org](http://schema.org/) - a co-product of Bing, Google, Yahoo! and Yandex, meant to help them make sense of the contents of a page. In the words of its publishers:
 
 > On-page markup enables search engines to understand the information on web pages and provide richer search results in order to make it easier for users to find relevant information on the web.
@@ -36,7 +38,7 @@ But wait, there's more.
 
 Since I'm using [WordPress]({{< ref "living-with-wordpress.md" >}}), some of its widgets output markup of the [microformats](http://microformats.org/) brand. These serve a similar purpose as Schema.org, but with a much smaller dictionary of entities. Little did I know that Google scanned it too and started complaining via Webmaster Tools that my implementation was incorrect:
 
-![Google Webmaster Tools Microformats Error](/wp-content/uploads/sites/2/2014/03/webmaster-tools-microformats-error.png "Google Webmaster Tools Microformats Error")
+![Google Webmaster Tools Microformats Error](/img/the-crazy-state-of-structured-data-markup/webmaster-tools-microformats-error.png "Google Webmaster Tools Microformats Error")
 
 I complied, included the missing markup, and the code became:
 

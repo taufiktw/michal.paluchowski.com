@@ -11,14 +11,16 @@ tags:
   - fashion
   - money
   - sales
-image: https://michal.paluchowski.com/files/2014/05/ip-industry-sales1.png
+image: /img/theyre-not-your-customers-anyway/ip-industry-sales1.png
 ---
 
 That bastard cracked your $1 app. _ONE DOLLAR_. That's all you asked in exchange for the hours you put in, and the guy still didn't pay. People like that should be executed. Like in the middle ages - an arm for an arm, an eye for an eye. _Chill_. He __wasn't your customer anyway__.
 
+<!--more-->
+
 Without diving too deep into a discussion on the usefulness of copyright, there are lessons we can learn from the fashion industry. It always had next to no intellectual property protection and a gigantic knock-off market (ever seen street stands with "genuine" Louis Vuitton bags?) Looking at how much sales the fashion industry is making, compared to high IP ones, they seem to be doing just fine:
 
-![Sales in high- versus low-IP protection industries](/wp-content/uploads/sites/2/2014/05/ip-industry-sales1.png)
+![Sales in high- versus low-IP protection industries](/img/theyre-not-your-customers-anyway/ip-industry-sales1.png)
 
 Still, fashion designers must be feeling awful watching people buying all this counterfeit apparel, enjoying the results of their work without payment, and will pursue every opportunity to curb that market, right? Not quite. Addressing the issue, Gucci's legend [Tom Ford][wptomford] said:
 

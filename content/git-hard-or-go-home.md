@@ -12,6 +12,8 @@ tags:
 
 I am in love with [Git][git-home]. It's the neatness junkie's dream come true. Multiple people can code away safely, independently, then every commit can be written and rewritten at any time to end up with a tidy, coherent product. As long as you know what you're doing, that is.
 
+<!--more-->
+
 With the years I worked out a few strategies for taming Git, making both mine and my collaborators' work easier. Perhaps these'll save you some headaches down the road.
 
 ## Understand the model

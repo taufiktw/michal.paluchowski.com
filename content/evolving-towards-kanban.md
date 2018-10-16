@@ -13,6 +13,8 @@ tags:
 
 [Kanban](http://www.amazon.com/gp/product/B0057H2M70/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0057H2M70&linkCode=as2&tag=micsbit-20) is the last stage of software delivery evolution. Right now, at least, as evolution never really stops. The path is usually the same, starting with a disorderly “let’s just code”, moving gradually towards a waterfall system, then painfully stumbling towards a formal [Agile]({{< ref "what-does-it-mean-to-be-agile.md" >}}) framework, say Scrum, and once a Scrum team truly matures, they realize they’re really doing Kanban with a bit of unnecessary paperwork.
 
+<!--more-->
+
 The jump from chaos to waterfall is rather obvious. So is usually the next step to go Scrum (or any other framework you like). We love all the Agile principles, user stories help [focus on business outcomes]({{< ref "agile-is-the-business-approach-to-software-en.md" >}}), expecting changes makes Product Owners happy and programmers less stressed. Estimates made in story points help the management see when things will be done and ready, and make decisions based on that.
 
 In Scrum for a new project you define a whole bag of user stories, estimate them, order by business value and call it a “Release”. That Release gets split into Iterations, each of 1 or 2 weeks in length. When you’re done with all the Iterations, you’re done with the Release and ready to unleash your product onto the general audience.

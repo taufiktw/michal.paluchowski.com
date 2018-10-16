@@ -13,6 +13,8 @@ tags:
 
 You cannot build a team merely by replacing "_me_" for "_we_" in communication. You won't get there either by placing people in one room and giving them a common name. A __team__ is much more than a group of individuals sharing the same space and some characteristics. What binds a team is __spirit__, not labels.
 
+<!--more-->
+
 A team:
 
 - __shares a common goal__, which must not be a vague statement like "customer satisfaction" or "top quality". Instead, it has to be a plain, concrete, down-to-earth target like "_delivering version 10.1 with killer feature Banana Split by the next holiday season_." To get there team members have to:

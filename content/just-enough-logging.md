@@ -12,6 +12,8 @@ tags:
 
 Debugging is a lot like police forensics. You're chasing the villain (bug) by analyzing [eye-witness accounts][mbnoteveryone] (users' reports), inspecting the crime scene (source code), and combing through often the most helpful resource: CCTV recordings (application logs), if only their quality allows.
 
+<!--more-->
+
 I got upset lately, looking for the needle in a stack of log *spam*:
 
 {{< twitter 445855130433634304 >}}

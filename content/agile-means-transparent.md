@@ -12,6 +12,8 @@ tags:
 
 "_It's so transparent!_" is the number one compliment I keep hearing from customers, with whom I'm doing Agile software development for the first time. Because the planning tools are shared and accessible by everyone, it's visible at a glance where the project is right now:
 
+<!--more-->
+
 - which features are complete,
 - which are yet to be completed,
 - are we on schedule?

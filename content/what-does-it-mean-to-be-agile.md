@@ -12,6 +12,8 @@ tags:
 
 Agile? Yeah, we do Kanban. We’ve got our user stories, backlog and deliver iteratively. All good. Except that that’s not what Agile is. Not at all. It’s not the planning poker, story points nor squadrons of Scrum Masters. It’s the spirit.
 
+<!--more-->
+
 Whenever the name Agile pops-up, invariably follows the “[manifesto](http://www.agilemanifesto.org/ "The Agile Manifesto")”. The 4 principles that you and I have seen over and over again and know by heart. Or do we? We definitively should because __they are__ _the_ Agile. They’re a way of approaching software development, while Kanban, Scrum, XP and all the others are just tools built to serve these very principles.
 
 By declaring to be Agile software developers, we commit to value:

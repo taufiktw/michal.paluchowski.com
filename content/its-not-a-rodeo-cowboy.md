@@ -13,6 +13,8 @@ tags:
 
 [The market for something to believe in is infinite](http://gapingvoid.com/2004/06/27/the-hughtrain/). I haven't seen any better evidence of this being true, than during yesterday's finale of [Startup Weekend Warsaw](http://warsaw.startupweekend.org/). The team with the most daring, creative, inspiring idea for a project won by a landslide and swept away half of the numerous prizes. Business played second-string.
 
+<!--more-->
+
 Some people were clearly dissatisfied with the outcome:
 
 {{< twitter 69870682862923776 >}}

@@ -12,6 +12,8 @@ tags:
 
 [myguidie](http://myguidie.com/) [died yesterday](http://blog.myguidie.com/post/21658891033/thanks-for-an-amazing-journey). It was one of the few, sane ideas born a year ago during the [1st Startup Weekend Warsaw](/its-not-a-rodeo-cowboy). Now it’s dead, and the only questions lingering are: what will [@olasitarska](http://twitter.com/olasitarska) do next, and what will _everybody else_ do?
 
+<!--more-->
+
 The startup scene in Warsaw, and Poland in general, is about to go through its first major trial. It started to heat up a year, maybe two years ago, with teams &amp; ideas springing up everywhere. [$1B acquisitions](http://techcrunch.com/2012/04/09/instagram-story-facebook-acquisition/) are a major inspiration and caffeine-laden parties like the Startup Weekend only add fuel to the fire. Now, when the toughest leftovers from the scene’s pioneers are failing, more and more people will start wondering whether to call the whole thing off and get a “real” job. I expect many will.
 
 Here’s when the fun begins.

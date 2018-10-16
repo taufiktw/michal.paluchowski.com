@@ -11,10 +11,12 @@ tags:
   - documents
   - paper
   - paperless life
-image: https://michal.paluchowski.com/files/2014/05/moleskine.jpg
+image: /img/paper-has-a-big-future/moleskine.jpg
 ---
 
 I'm as paperless as it gets. Most of my documents are on Google Drive, I take notes on tablets, read only books available on Kindle and never _ever_ print out emails (can we _please_ drop those "consider the environment..." pledges?). I even mock my wife for leaving written task lists, instead of setting up some cards on our shared [Trello][trellorecommend] board. I'm pretty much like that guy:
+
+<!--more-->
 
 {{< youtube g5MZlATPDzU >}}
 
@@ -38,7 +40,7 @@ However... I'm a _big_ believer in good, old paper. Turns out it's [excellent fo
 
 That might explain why I had some of my best ideas when scribbling in my Moleskine. It's free-form. I enhance text with drawings, annotations that would take way too much time to produce on any electronic device. Ask any "creative" person and there's a good chance he or she uses Moleskines for these very reasons.
 
-![Moleskine](/wp-content/uploads/sites/2/2014/05/moleskine.jpg)
+![Moleskine](/img/paper-has-a-big-future/moleskine.jpg)
 
 I will __always print out my travel itineraries__, boarding passes, despite having them on all mobile devices I carry. The paper is there when all tech fails, because by Murphy's laws, batteries tend to die in the least convenient moments. Last thing I want is to be stranded on some airport because I can't present my boarding pass.
 

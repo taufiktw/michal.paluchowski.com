@@ -12,6 +12,8 @@ tags:
 
 Try cooking in your kitchen for a week without cleaning. Just leave all the used packaging around and all the dirty cutlery in the sink. I bet you'll not only be unable to walk safely from door to window, you may also feel like throwing up due to the spreading reek. Do that for a few months and it'll be easier for you to move than clean up.
 
+<!--more-->
+
 Something similar is happening daily all over the world at software vendors. Because there's always a business reason to write new code and never to clean up the existing one, everyone ends up managing thousands and millions of lines of code, often written three generations of employees ago. "_Where is this method used? Uhm... I don't know. Carl wrote it and he left the company during last year's layoffs._" At some point writing any new change requires more impact analysis than designing and coding. Then someone comes up with the bright idea of scrapping it all and writing from scratch.
 
 Refactoring __must__ be treated like any other part of the development process:

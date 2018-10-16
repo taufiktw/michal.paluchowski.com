@@ -15,6 +15,8 @@ menu:
 
 I can’t watch presentations anymore. Having been an active [Toastmaster]({{< ref "we-should-all-be-toastmasters.md" >}} "We should all be Toastmasters") for some time, I notice all the speakers’ mistakes. The “_uhm_” sounds, the non-purposeful fidgeting, the illogical sequence of ideas, the obsolete information. I can barely hear what the speaker is saying.
 
+<!--more-->
+
 A layperson watching the same presentation might notice that _something’s_ wrong with it. It’s boring or just not resonating. But they can’t really put their finger on it. Once I explain: “he mixed up presenting an abstract concept with giving concrete advice” they go “ah!”, and confirm “you nailed it!”
 
 Switch to a company doing an employee satisfaction survey. Its results are miserable, so the participants are asked to work out concrete recommendations for what should change. Ask that question separately to line employees and to managers and you’ll get __distinctly different answers__. _Worlds_ apart.

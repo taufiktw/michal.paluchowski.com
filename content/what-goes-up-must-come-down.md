@@ -10,10 +10,12 @@ tags:
   - quality
   - quantified self
   - wearables
-image: https://michal.paluchowski.com/files/2014/07/up-replacement.jpg
+image: /img/what-goes-up-must-come-down/up-replacement.jpg
 ---
 
 Back on April 26 I [reviewed my first year of wearing Jawbone UP][mplivingup] with all its benefits and deficiencies. Two months later, on June 21, my band gave up the ghost as battery life suddenly dropped to a mere few minutes. Today I'm wearing a replacement - courtesy of Jawbone, and have a few more thoughts to share from the experience.
+
+<!--more-->
 
 Considering how long the band worked well for me, I was one of the _lucky_ ones:
 
@@ -33,7 +35,7 @@ From my first contact with [@JawboneSupport][twitterjawbonesupport] on June 24, 
 
 The new band is distinct in a few externally visible construction details. The button feels differently and it is rattling the same way it must've for [Zach Epstein][twitterzachepstein], who's [article][yhgivingupjawbone] I linked to above. He had his band replaced due to the rattling, for me it's not an issue.
 
-![Replacement Jawbone UP](/wp-content/uploads/sites/2/2014/07/up-replacement.jpg)
+![Replacement Jawbone UP](/img/what-goes-up-must-come-down/up-replacement.jpg)
 
 I'm hoping changes go beyond the visible and something was done to improve the band's longevity.
 

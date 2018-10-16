@@ -13,6 +13,8 @@ tags:
 
 Designed, developed, handed over to QA for testing. Then all hell breaks loose. "*How do I test it?*" "*Where’s the documentation?*" "*This is broken; not it’s not, it’s not our component.*" "*I’m not signing this off!*" Or my personal favorite: "*I've other priorities to test now. I'll get to your stuff tomorrow.*" for three days in a row. Keeping QA separate from development teams is a recipe for trouble, friction and lots of missed opportunities. It has to stop.
 
+<!--more-->
+
 Once you put a QA Engineer in the same team with developers, sharing the same manager, several things happen:
 
 * **QA shares the same goal** with developers - to deliver an excellent product on schedule &amp; budget. No more bouncing tickets back and forth "*this isn't working!*", "*it’s not a bug, it’s a feature!*" "*this isn't a blocker!*" Shared goal, shared ownership, shared responsibility.

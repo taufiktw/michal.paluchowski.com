@@ -16,6 +16,8 @@ menu:
 
 10 is more than 5. Hiring a great developer for 10 a month costs twice as much as hiring a good developer for 5. Maybe you’re not building the [next Google](http://research.google.com/pubs/papers.html" target="_blank). Maybe you’re not working on processing petabytes of [CERN experiment data](http://public.web.cern.ch/public/en/LHC/LHC-en.html" target="_blank). You probably don’t need a genius to write the code of your application. You hire the good one and pay less, then end up paying way more.
 
+<!--more-->
+
 It’s not what you pay them, it’s what they _cost you_.
 
 A good developer will write a good, simple piece of code that’ll work for your purpose. Then your business will change - expand, contract or simply shift - and the application will need to change. The good developer will comply and patch her original work to fit the new purpose. The cycle will continue, but with every change your developer will more often use words like “_impossible_”, “_limitation_” and “_revamp_”.

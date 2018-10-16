@@ -10,12 +10,14 @@ tags:
   - knowledge sharing
   - productivity
   - tools
-image: https://michal.paluchowski.com/files/2016/01/michal-CraftConfconf-notetaking.jpg
+image: /img/michals-conference-war-chest/michal-CraftConfconf-notetaking.jpg
 menu:
   - readingList
 ---
 
 It's not unusual for conferences to cost _an arm and a leg_. At €1,000 or more for just the entry, on top of which come travel and accommodation, and I often [attend two or three events a year][lanyrd-mpaluchowski]. That's a _pile_ of money in need of justification spending, and I can only do so if I bring back lots of valuable information. Here's what I do nowadays---the tools and tricks I worked out for surviving and thriving as a conference attendee.
+
+<!--more-->
 
 ## Preparation
 
@@ -28,7 +30,7 @@ __Session selection__ comes first. Conference schedules usually appear piece by 
 
 I __add selected sessions into Google Calendar__, synchronized across all of my devices. Some conferences have dedicated apps to store one's schedule, but these [may or may not work to my liking][mp-trusting-software] or could have issues on shaky Wi-Fi. Plus I quickly would've acquired a pile of useless apps and accounts.
 
-![GOTO Berlin schedule in Calendar](/wp-content/uploads/sites/2/2016/01/goto-berlin-conference-schedule.png)
+![GOTO Berlin schedule in Calendar](/img/michals-conference-war-chest/goto-berlin-conference-schedule.png)
 
 I'm really big on notes. Before the conference I __setup a fresh Google Doc__, since I'll be [taking notes on a tablet][mp-paper-big-future], with pre-entered:
 
@@ -36,7 +38,7 @@ I'm really big on notes. Before the conference I __setup a fresh Google Doc__, s
 * names and
 * Twitter handles of speakers.
 
-![GOTO Berlin conference notes](/wp-content/uploads/sites/2/2016/01/GOTO-Berlin-conference-notes.png)
+![GOTO Berlin conference notes](/img/michals-conference-war-chest/GOTO-Berlin-conference-notes.png)
 
 Using Google Docs has a number of advantages:
 
@@ -59,7 +61,7 @@ The conference days are always intense, both physically as well as mentally, so 
 
 I __carry my own shoulder bag__, currently the excellent Camel Active Dakar, which contains my tablet, wallet, business cards and a pen or two.
 
-![Camel Active Dakar shoulder bag](/wp-content/uploads/sites/2/2016/01/camel-active-dakar-bag.jpg)
+![Camel Active Dakar shoulder bag](/img/michals-conference-war-chest/camel-active-dakar-bag.jpg)
 
 Conferences usually hand out their own bags, but most of these aren't convenient to carry around for a full day. I carefully selected a good bag, that:
 
@@ -69,7 +71,7 @@ Conferences usually hand out their own bags, but most of these aren't convenient
 * easily __fits into my lap__ during a session, when space is tight,
 * carries everything I need---the Camel one can easily carry a 12" laptop or A4-sized documents.
 
-![Michal taking notes at CraftConf 2015](/wp-content/uploads/sites/2/2016/01/michal-CraftConfconf-notetaking.jpg)
+![Michal taking notes at CraftConf 2015](/img/michals-conference-war-chest/michal-CraftConfconf-notetaking.jpg)
 
 My __device for note taking is currently the [iPad Air 2][apple-ipad-air2]__. A laptop wouldn't do because the vast majority won't last a full day on batteries and I sure as hell don't want to waste time on recharging.
 

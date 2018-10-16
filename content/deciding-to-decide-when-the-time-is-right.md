@@ -11,10 +11,12 @@ tags:
   - research
   - spike
   - uncertainty
-image: https://michal.paluchowski.com/files/2014/07/decision-road-sign.jpg
+image: /img/deciding-to-decide-when-the-time-is-right/decision-road-sign.jpg
 ---
 
 Never before in history were so many people required to make decisions so often and of such far-reaching consequences. Where only a handful of wise men used to choose for everybody else, today we're all decision makers. From the CEO to the junior programmer, everyone's decisions can send ripples across the globe. We have to learn __when__ and __how__ to decide.
+
+<!--more-->
 
 See just how significantly mentions of "decision" have increased since the outset of World War II.
 
@@ -22,7 +24,7 @@ See just how significantly mentions of "decision" have increased since the outse
 
 Times when our days were pre-defined, we knew how to crank a widget and how many we were expected to crank to make a day's pay, are over. Many of us in IT and elsewhere work with systems used by millions, where one bad decision could start mayhem. Welcome to the twenty first century - the age of empowerment and decisions.
 
-![Decision road sign](/wp-content/uploads/sites/2/2014/07/decision-road-sign.jpg)
+![Decision road sign](/img/deciding-to-decide-when-the-time-is-right/decision-road-sign.jpg)
 
 > __decision__
 > _noun_
