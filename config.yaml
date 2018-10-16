@@ -1,12 +1,15 @@
 metaDataFormat: yaml
 theme: mpaluchowski
-baseURL: "https://michal.paluchowski.com/"
+baseURL: https://michal.paluchowski.com
 languageCode: "en-us"
 googleAnalytics: UA-2971180-9
 title: "Michał's Bites"
 copyright: Made in Warsaw by Michał Paluchowski. All text and code is under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
 params:
   subtitle: Recipes for a software business
+  logo:
+    path: /img/mpaluchowski.jpg
+    alt: Michał Paluchowski
   twitter: mpaluchowski
 menu:
   blogs:
