@@ -18,7 +18,7 @@ The whole is greater than the sum of its parts---that's not true. Not universall
 
 I had an eye-opening moment reading Professor Richard Wiseman's beautifully practical book [59 Seconds: Think a Little, Change a Lot][amazon-59-seconds]:
 
-> In the late 1880s, a French agricultural engineer named Max Ringelmann became obsessed with trying to make workers as efficient as possible. (...) One of Ringelmann’s studies involved asking people to pull on a rope to lift increasingly heavy weights. Perhaps not unreasonably, Ringelmann expected people in groups to work harder than those on their own. But the results revealed the opposite pattern. __When working alone, individuals lifted around 185 pounds, but they managed only an average of 140 pounds per person when working as a group.__ [emphasis mine]
+> In the late 1880s, a French agricultural engineer named Max Ringelmann became obsessed with trying to make workers as efficient as possible. (...) One of Ringelmann's studies involved asking people to pull on a rope to lift increasingly heavy weights. Perhaps not unreasonably, Ringelmann expected people in groups to work harder than those on their own. But the results revealed the opposite pattern. __When working alone, individuals lifted around 185 pounds, but they managed only an average of 140 pounds per person when working as a group.__ [emphasis mine]
 
 How is that possible? It's due to diffusion of responsibility:
 
