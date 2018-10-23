@@ -17,7 +17,7 @@ params:
   twitter: mpaluchowski
 menu:
   blogs:
-    - name: Triathlon
-      url: https://triathlon.paluchowski.com/
     - name: Travel
       url: https://travel.paluchowski.com/
+    - name: Triathlon
+      url: https://triathlon.paluchowski.com/
