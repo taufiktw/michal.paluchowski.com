@@ -2,8 +2,8 @@ metaDataFormat: yaml
 theme: mpaluchowski-2014
 baseURL: https://michal.paluchowski.com
 permalinks:
-  posts: /:slug
-  pages: /:slug
+  posts: /:filename
+  pages: /:filename
   tags: /tag/:slug
 languageCode: "en-us"
 paginate: 5
