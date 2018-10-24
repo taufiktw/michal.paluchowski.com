@@ -1,7 +1,17 @@
+RedirectMatch permanent "/files/(.*)" "/wp-content/uploads/sites/2/$1"
+Redirect permanent "/rss.xml" "/index.xml"
+Redirect permanent "/feed/" "/index.xml"
+RedirectMatch permanent "/\??tag[/=]qualityassurance" "/tag/quality-assurance"
+RedirectMatch permanent "/\??tag[/=]personaldevelopment" "/tag/personal-development"
+RedirectMatch permanent "/\??tag[/=]userexperience" "/tag/user-experience"
+RedirectMatch permanent "/\?page\=(\d)" "/page/$1"
+RedirectMatch permanent "/archive/(\d{1,2})/(\d{4})" "/$2/$1"
+
 ErrorDocument 404 /404.html
 
 <IfModule mod_headers.c>
     Header set X-Frame-Options DENY
+    Header set Strict-Transport-Security max-age=2592000
 
     <FilesMatch "\.(jpg|jpeg|png|svg|ico)$">
         Header set Cache-Control "max-age=604800, public"
