@@ -1,5 +1,5 @@
 Redirect permanent "/sitemapindex.xml" "/sitemap.xml"
-RedirectMatch permanent "/files/(.*)" "/wp-content/uploads/sites/2/$1"
+RedirectMatch permanent "/files/(.*)" "/$1"
 Redirect permanent "/rss.xml" "/index.xml"
 Redirect permanent "/feed/" "/index.xml"
 RedirectMatch permanent "/\??tag[/=]qualityassurance" "/tag/quality-assurance"
