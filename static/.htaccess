@@ -1,12 +1,18 @@
 Redirect permanent "/sitemapindex.xml" "/sitemap.xml"
-RedirectMatch permanent "/files/(.*)" "/$1"
+RedirectMatch permanent "^/files/(.*)" "/$1"
 Redirect permanent "/rss.xml" "/index.xml"
-Redirect permanent "/feed/" "/index.xml"
-RedirectMatch permanent "/\??tag[/=]qualityassurance" "/tag/quality-assurance"
-RedirectMatch permanent "/\??tag[/=]personaldevelopment" "/tag/personal-development"
-RedirectMatch permanent "/\??tag[/=]userexperience" "/tag/user-experience"
-RedirectMatch permanent "/\?page\=(\d)" "/page/$1"
-RedirectMatch permanent "/archive/(\d{1,2})/(\d{4})" "/$2/$1"
+RedirectMatch permanent "^/feed/?" "/index.xml"
+RewriteCond %{QUERY_STRING} tag=qualityassurance
+RewriteRule ^ /tag/quality-assurance [R=301,QSD,L]
+RedirectMatch permanent "^/tag/qualityassurance" "/tag/quality-assurance"
+RewriteCond %{QUERY_STRING} tag=personaldevelopment
+RewriteRule ^ /tag/personal-development [R=301,QSD,L]
+RedirectMatch permanent "^/tag/personaldevelopment" "/tag/personal-development"
+RewriteCond %{QUERY_STRING} tag=userexperience
+RewriteRule ^ /tag/user-experience [R=301,QSD,L]
+RedirectMatch permanent "^/tag/userexperience" "/tag/user-experience"
+RewriteCond %{QUERY_STRING} page=(\d+)
+RewriteRule ^ /page/%1 [R=301,QSD,L]
 
 ErrorDocument 404 /404.html
 
