@@ -66,5 +66,5 @@ A conscious decision and a light lifestyle. Certainly not for everyone, but if y
 [thmbiz]: http://www.thmbiz.co.uk/About+Us.php
 [thmbiztraining]: http://www.thmbiz.co.uk/Management+Training.php
 [wpsunkcost]: http://en.wikipedia.org/wiki/Sunk_costs
-[dilbertelbonia]: /a-corporate-career-may-take-you-places/dilbert-elbonia-spy-e1429379323566.gif
+[dilbertelbonia]: /a-corporate-career-may-take-you-places/dilbert-elbonia-spy.gif
 

@@ -23,13 +23,13 @@ Designing a fresh look for Michał's Bites nudged me to look into [Schema.org](h
 And while choosing the [right entity](http://schema.org/docs/full.html) for your particular page element isn't always straightforward, it's easy to mark it up:
 
 ```html
-&lt;article itemscope itemtype=&quot;http://schema.org/BlogPosting&quot;&gt;
-  &lt;h1 itemprop=&quot;name headline&quot;&gt;The crazy state of structured data markup&lt;/h1&gt;
-  &lt;section itemprop=&quot;articleBody&quot;&gt;
-    &lt;p&gt;...&lt;/p&gt;
-  &lt;/section&gt;
-  &lt;p&gt;Written by &lt;span itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;span itemprop=&quot;name&quot;&gt;Michał Paluchowski&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/article&gt;
+<article itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 itemprop="name headline">The crazy state of structured data markup</h1>
+  <section itemprop="articleBody">
+    <p>...</p>
+  </section>
+  <p>Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Michał Paluchowski</span></span></p>
+</article>
 ```
 
 It's *consistent*. Most entities will have a way to markup `name`, `url` or `description`. Some have unique attributes, like a `BlogPosting` has an `articleBody` above. It's readable for both computers and humans.
@@ -43,8 +43,8 @@ Since I'm using [WordPress]({{< ref "living-with-wordpress/index.md" >}}), some 
 I complied, included the missing markup, and the code became:
 
 ```html
-&lt;article class=&quot;h-entry&quot; itemscope…
-  &lt;h1 class=&quot;p-name&quot; itemprop=...
+<article class="h-entry" itemscope…
+  <h1 class="p-name" itemprop=...
 ```
 
 There's *still* more. Facebook developed its [OpenGraph](https://developers.facebook.com/docs/opengraph/), and Twitter has their [Cards](https://dev.twitter.com/cards), all of which - with some extra markup - allow me to control and improve the way content will appear in the services' respective timelines. Otherwise Facebook may display a random snippet of text with a link, starting with something as "meaningful" as "Comments closed".
@@ -52,10 +52,10 @@ There's *still* more. Facebook developed its [OpenGraph](https://developers.face
 These meant adding some more markup to my code:
 
 ```html
-&lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
-&lt;meta property=&quot;og:title&quot; content=&quot;The crazy state of structured data markup&quot;&gt;
-&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot;&gt;
-&lt;meta name=&quot;twitter:title&quot; content=&quot;The crazy state of structured data markup&quot;&gt;
+<meta property="og:type" content="article">
+<meta property="og:title" content="The crazy state of structured data markup">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="The crazy state of structured data markup">
 ```
 
 Now my content was nicely highlighted on Twitter (note: doesn't always show up):

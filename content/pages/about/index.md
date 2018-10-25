@@ -3,7 +3,8 @@ author: michal
 date: 2017-01-29T11:06:31.000Z
 title: Hi, I'm Michał
 menu:
-  - pages
+  pages:
+    name: About Michał
 ---
 
 I'm what you would call a "full stack developer" these days, based in Warsaw, Poland. I deliver software, from the front-end all the way to the depths of the back-end.

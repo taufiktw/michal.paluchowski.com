@@ -24,8 +24,8 @@ On the other hand, some of my colleagues left, lured by offers "too good to refu
 One can certainly also make the argument, that others' work is just as good a source of learning, as one's own. That going to a different place, __working with different people will expose one to other, often better approaches__. Of course. I'm just afraid of this turning into a cargo-cult spiral, where you acquire new ways of working without taking the time to understand them---why they succeed and where they fail---before moving on to the next big thing.
 
 <figure>
-![Instruction vs. Experimentation](/too-long-in-one-job/instruction-experimentation.jpg)
-<figcaption>From [Jessica Hagy's Indexed](http://thisisindexed.com/2017/01/getting-ideas-together/)</figcaption>
+<img src="/too-long-in-one-job/instruction-experimentation.jpg" alt="Instruction vs. Experimentation">
+<figcaption>From <a href="http://thisisindexed.com/2017/01/getting-ideas-together/">Jessica Hagy's Indexed</a></figcaption>
 </figure>
 
 It's complicated. There's no good number or even range of years one "should" spend in a single place. Not without considering the context of this time---the company, the people, the work and alternative opportunities. And in a world of abundant opportunities, such as the one we have now in IT, it's [crazy difficult to decide][mb-deciding-to-decide] whether and when to make a move.

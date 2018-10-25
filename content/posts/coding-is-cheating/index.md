@@ -33,8 +33,8 @@ Close enough to round it off to `0.2`, but still, what a cheat!
 We continue to work around constraints, this time of memory. All computer memory is limited and we shouldn't waste it unnecessarily. So when we want to store a value in a program, we often won't store the actual value, but a __[pointer][wppointer]__ instead:
 
 ```
-value = &quot;banana&quot;
-valuePointer = &amp;value
+value = "banana"
+valuePointer = &value
 ```
 
 The exact code will differ depending on the language used, but essentially it says:
