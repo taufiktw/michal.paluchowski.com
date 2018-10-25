@@ -86,8 +86,8 @@ You're a geek. You're doing a job that's highly in demand these days and will re
 
 (Maslov's pyramid image by [J. Finkelstein on Wikipedia][wikimaslovpyramidimg])
 
-[amazondanpinkdrive]: http://www.amazon.com/gp/product/B004P1JDJO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004P1JDJO&linkCode=as2&tag=micsbit-20&linkId=UAVX4BZOBHJGHPUG
-[amazonstartwithwhy]: http://www.amazon.com/gp/product/B002Q6XUE4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002Q6XUE4&linkCode=as2&tag=micsbit-20&linkId=UCHTGC7C5GVXTCDO
+[amazondanpinkdrive]: https://www.amazon.com/gp/product/B004P1JDJO/
+[amazonstartwithwhy]: https://www.amazon.com/gp/product/B002Q6XUE4/
 [atlassiancompany]: https://www.atlassian.com/company
 [cnnjackwelch]: http://transcripts.cnn.com/TRANSCRIPTS/1106/11/pmt.01.html
 [etsyabout]: http://www.etsy.com/developers
@@ -101,7 +101,7 @@ You're a geek. You're doing a job that's highly in demand these days and will re
 [netflixblog]: http://techblog.netflix.com/
 [spotifydev]: https://developer.spotify.com/
 [tedsinek]: http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
-[thinkfastslow]: http://www.amazon.com/gp/product/B00555X8OA/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00555X8OA&linkCode=as2&tag=micsbit-20
+[thinkfastslow]: https://www.amazon.com/gp/product/B00555X8OA/
 [wikimaslovpyramidimg]: http://en.wikipedia.org/wiki/File:Maslow%27s_hierarchy_of_needs.svg
 [wpmaslow]: http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
 

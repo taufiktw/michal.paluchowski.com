@@ -59,7 +59,7 @@ Thanks to [Jarek Piotrowski][jarekptwitter] for motivating me to write this post
 
 [rpprocrastination]: http://www.raptitude.com/2014/02/procrastinate-later/
 [pomodoro]: http://pomodorotechnique.com/
-[thinkingfastslow]: http://www.amazon.com/gp/product/B00555X8OA/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00555X8OA&linkCode=as2&tag=micsbit-20
+[thinkingfastslow]: https://www.amazon.com/gp/product/B00555X8OA/
 [mpmeanagile]: {{< ref "what-does-it-mean-to-be-agile.md" >}}
 [aatimeboxing]: http://guide.agilealliance.org/guide/timebox.html
 [jarekptwitter]: https://twitter.com/JarekP

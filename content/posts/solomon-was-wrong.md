@@ -36,7 +36,7 @@ There are no logs to carry in white collar companies, but there are just as many
 
 [mpqafromvenus]: {{< ref "developers-are-from-mars-qa-are-from-venus.md" >}} "Developers are from Mars, QA are from Venus"
 [mpdontneedpermission]: {{< ref "you-dont-need-permission-you-need-to-act.md" >}} "You don't need permission, you need to act"
-[amtriballeadership]: http://www.amazon.com/gp/product/B0012GTZFC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0012GTZFC&linkCode=as2&tag=micsbit-20
+[amtriballeadership]: https://www.amazon.com/gp/product/B0012GTZFC/
 [tedpowell]: http://www.ted.com/talks/colin_powell_kids_need_structure.html
 [mpteamneverwas]: {{< ref "a-team-that-never-was.md" >}} "A team that never was"
 

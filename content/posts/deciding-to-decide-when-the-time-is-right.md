@@ -82,8 +82,8 @@ Take time to ask questions, research answers and make decisions when they need t
 Keep asking yourself whether you have enough data and work to verify whether what you think you know is true. Learn and practice how to make decisions. If you avoid them, [somebody else will step in][mpsolomonwrong] and their decisions may not be to your liking.
 
 [agilespike]: http://agileatlas.org/articles/item/spikes-in-scrum-the-exception-not-the-rule
-[ampowellworkedorme]: http://www.amazon.com/gp/product/B006IE2F3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006IE2F3W&linkCode=as2&tag=micsbit-20&linkId=CSBNFQI3N6ELV2GY
-[amsherlockholmes]: http://www.amazon.com/gp/product/B0082S3FA4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0082S3FA4&linkCode=as2&tag=micsbit-20&linkId=VHZM26FI62BHNGC5
+[ampowellworkedorme]: https://www.amazon.com/gp/product/B006IE2F3W/
+[amsherlockholmes]: https://www.amazon.com/gp/product/B0082S3FA4/
 [mpdeelopercost]: {{< ref "how-much-does-a-good-developer-cost.md" >}}
 [mpsolomonwrong]: {{< ref "solomon-was-wrong.md" >}}
 [mptimeboxing]: {{< ref "time-in-a-box.md" >}}

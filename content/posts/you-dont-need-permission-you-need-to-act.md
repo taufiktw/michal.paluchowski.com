@@ -18,6 +18,6 @@ If you're dreaming of making _any_ sort of career beyond line employment, then y
 
 The difference is _profound_. It's not about rejecting orders, but about __making your own plan__. "Boss, I'd like to do it this way. It'll let me achieve A, B and C on time. And there's this other task a colleague asked me for. I'd like to do this tomorrow and shouldn't impact any other goal and deadline I have. Is that fine?" Of course it is.
 
-If you read Stephen Covey's [7 Habits of Highly Effective People](http://www.amazon.com/gp/product/B00GOZV3TM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00GOZV3TM&linkCode=as2&tag=micsbit-20), then the above should remind you of habit 1: be proactive. Very true so, because that's the very same thing. I just can't stand the whining of people who are continuously dissatisfied with their work assignments, yet when asked about what they do to change their situation, claim they have _no influence_ on what's coming at them.
+If you read Stephen Covey's [7 Habits of Highly Effective People](https://www.amazon.com/gp/product/B00GOZV3TM/), then the above should remind you of habit 1: be proactive. Very true so, because that's the very same thing. I just can't stand the whining of people who are continuously dissatisfied with their work assignments, yet when asked about what they do to change their situation, claim they have _no influence_ on what's coming at them.
 
 You do. The sooner you understand it the quicker your career will take off. Don't ask for permission. Act.

@@ -11,7 +11,7 @@ tags:
   - software development
 ---
 
-[Kanban](http://www.amazon.com/gp/product/B0057H2M70/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0057H2M70&linkCode=as2&tag=micsbit-20) is the last stage of software delivery evolution. Right now, at least, as evolution never really stops. The path is usually the same, starting with a disorderly "let's just code", moving gradually towards a waterfall system, then painfully stumbling towards a formal [Agile]({{< ref "what-does-it-mean-to-be-agile.md" >}}) framework, say Scrum, and once a Scrum team truly matures, they realize they're really doing Kanban with a bit of unnecessary paperwork.
+[Kanban](https://www.amazon.com/gp/product/B0057H2M70/) is the last stage of software delivery evolution. Right now, at least, as evolution never really stops. The path is usually the same, starting with a disorderly "let's just code", moving gradually towards a waterfall system, then painfully stumbling towards a formal [Agile]({{< ref "what-does-it-mean-to-be-agile.md" >}}) framework, say Scrum, and once a Scrum team truly matures, they realize they're really doing Kanban with a bit of unnecessary paperwork.
 
 <!--more-->
 
