@@ -1,3 +1,5 @@
+RewriteEngine On
+
 Redirect permanent "/sitemapindex.xml" "/sitemap.xml"
 RedirectMatch permanent "^/files/(.*)" "/$1"
 Redirect permanent "/rss.xml" "/index.xml"
