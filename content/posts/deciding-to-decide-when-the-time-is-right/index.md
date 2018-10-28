@@ -24,7 +24,7 @@ See just how significantly mentions of "decision" have increased since the outse
 
 Times when our days were pre-defined, we knew how to crank a widget and how many we were expected to crank to make a day's pay, are over. Many of us in IT and elsewhere work with systems used by millions, where one bad decision could start mayhem. Welcome to the twenty first century - the age of empowerment and decisions.
 
-![Decision road sign](/deciding-to-decide-when-the-time-is-right/decision-road-sign.jpg)
+{{< figure src="/deciding-to-decide-when-the-time-is-right/decision-road-sign.jpg" alt="Decision road sign" >}}
 
 > __decision__
 > _noun_

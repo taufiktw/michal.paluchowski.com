@@ -34,7 +34,7 @@ What *should have* helped were server logs, parsed by any reasonable software li
 
 Some pages will be truly gone - removed and nowhere present in your new website structure. These should correctly return a `404 (not found)` or `410 (gone)` HTTP code. You can still go the extra mile and make the experience of hitting links like those slightly more bearable.
 
-![GitHub's 404 page](/for-the-love-of-urls/github-404.png)
+{{< figure src="/for-the-love-of-urls/github-404.png" alt="GitHub's 404 page" >}}
 
 It can be fun, self mocking, but on top of that you should provide users with a way to move forward from there:
 

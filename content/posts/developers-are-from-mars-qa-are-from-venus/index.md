@@ -17,7 +17,7 @@ Designed, developed, handed over to QA for testing. Then all hell breaks loose. 
 
 Once you put a QA Engineer in the same team with developers, sharing the same manager, several things happen:
 
-* **QA shares the same goal** with developers - to deliver an excellent product on schedule &amp; budget. No more bouncing tickets back and forth "*this isn't working!*", "*it's not a bug, it's a feature!*" "*this isn't a blocker!*" Shared goal, shared ownership, shared responsibility.
+* **QA shares the same goal** with developers - to deliver an excellent product on schedule & budget. No more bouncing tickets back and forth "*this isn't working!*", "*it's not a bug, it's a feature!*" "*this isn't a blocker!*" Shared goal, shared ownership, shared responsibility.
 * **QA knows product first-hand** by spending time with developers as they work, talking over each feature and scenario. Ever tried asking a developer to write a test script for QA? Good luck with that. Sit the QA next to a developer and they can write the scripts perfectly themselves.
 * **Testing gets done early and often** because QA doesn't have any other priorities or anyone else shouting louder at them to get their work done faster. User story finished? Alright, let's see how it works. Right now. And iron out all the bugs right there, on the spot.
 * **Testing gets automated** when QA sets up [Selenium][selenium] (or any other) scripts together with developers, that they can later re-run as frequently as needed to check whether they've not broken something.
@@ -29,6 +29,6 @@ Testing is not separate from developing. It never has been, but today, when soft
 
 [selenium]: http://seleniumhq.org/
 [mbagile]: /what-does-it-mean-to-be-agile
-[mstesting]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.1577&amp;rep=rep1&amp;type=pdf
+[mstesting]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.1577&rep=rep1&type=pdf
 
 *[QA]: Quality Assurance

@@ -16,11 +16,11 @@ Flip-flops, sandals, occasionally a pair of [Vibram Five Fingers][vibramfivefing
 
 <!--more-->
 
-![SoCraTes logo](/the-unconference-experience-of-socrates-2014/SoCraTesWappen_2014.png)
+{{< figure src="/the-unconference-experience-of-socrates-2014/SoCraTesWappen_2014.png" alt="SoCraTes logo" >}}
 
 SoCraTes stands for **So**ftware **Cra**ftsmanship and **Tes**ting - an all-in-one statement embodying the aspiration to become better at creating software tomorrow than we were today. That's all there was available before the event to describe its contents. No calls for papers, no formal agendas, speaker profiles or anything one would expect from a regular conference. All sessions for the day were announced each morning, often sparked by the previous night's conversations. One literally comes there without knowing what to expect.
 
-![Pitching sessions](/the-unconference-experience-of-socrates-2014/session-pitching.jpg)
+{{< figure src="/the-unconference-experience-of-socrates-2014/session-pitching.jpg" alt="Pitching sessions" >}}
 
 For two days, first thing after breakfast, all 150 of us met to fill in the agenda, by pitching sessions and sticking them somewhere onto the grid of available times and spaces - a morning conference-room lecture on micro-services, or perhaps an afternoon debate on freelancing strategies in a garden setting? *Anything* was possible, because in [Open Space Technology][wpopenspacetech]:
 

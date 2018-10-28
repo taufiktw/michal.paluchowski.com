@@ -42,17 +42,17 @@ The exact code will differ depending on the language used, but essentially it sa
 1. save the value `banana` under the name `value`, then
 2. assign to the name `valuePointer` the _memory address_ of `value` (it _points to_ where the original value is stored).
 
-![Pointer illustration](/coding-is-cheating/pointer.png)
+{{< figure src="/coding-is-cheating/pointer.png" alt="Pointer illustration" >}}
 
 In consequence we're using much less memory, because the `banana` is stored only once, but as a side effect (sometimes desired), if we change to `value = "kiwi"` later, then `valuePointer` will also suddenly return `kiwi`.
 
 Let's look at something more tangible - a sphere.
 
-![Sphere](/coding-is-cheating/sphere.png)
+{{< figure src="/coding-is-cheating/sphere.png" alt="Sphere" >}}
 
 You know how a sphere looks like, you can recognize one if you see it. But a computer is __inherently incapable of producing a real sphere__ (though that'll change once [ray tracing][wpraytracing] goes mainstream, thanks [Marek][fbmarekcomment]). For reasons that require a university course to explain, 3D spheres are drawn with... triangles.
 
-![Sphere](/coding-is-cheating/sphere-triangles.gif)
+{{< figure src="/coding-is-cheating/sphere-triangles.gif" alt="Sphere" >}}
 
 There's just so many of them and so tiny that you are fooled and see a smooth surface. In the first 3D games that surfaced in the 90's you could actually see the edgy surfaces. Nowadays computers have enough horsepower to draw millions of triangles without much sweat.
 
@@ -72,7 +72,7 @@ In order to _perfectly_ calculate the best route - be that the shortest or the q
 
 The trick we use in these hard cases is __[heuristics][wpheuristics]__ which boils down to using extra information we may have, and allowing for suboptimal results, providing the ones we deliver are good enough. For finding the best route on a map, we already know the locations (latitude and longitude) of all points. We can use that information to limit the area in which we'll calculate the routes, often to a shape resembling an ellipse:
 
-![Shortest path calculation area](/coding-is-cheating/shortest-path.png)
+{{< figure src="/coding-is-cheating/shortest-path.png" alt="Shortest path calculation area" >}}
 
 We won't consider points and roads outside of this area _at all_. That's why when trying to cross Warsaw North (say Marymont) to South (Ursynów), the GPS might offer you a straight line through the city center, while a quicker and more convenient route may lead along the city bypass. But the calculation is much faster.
 

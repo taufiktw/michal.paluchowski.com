@@ -25,7 +25,7 @@ There are three qualities that combined would make a company a Geek Heaven:
 
 ## IT is central to business
 
-Has your department ever been called a "cost center"? That's another way of saying "_we will outsource your work to &lt;insert cheap labor country> as soon as you start asking too much money._" You are disposable. [A cog in the machine][mppersonnotresource]. But the ramifications here are so much broader, because if IT isn't the __driver of business__, then all IT decisions will be monetary decisions.
+Has your department ever been called a "cost center"? That's another way of saying "_we will outsource your work to <insert cheap labor country> as soon as you start asking too much money._" You are disposable. [A cog in the machine][mppersonnotresource]. But the ramifications here are so much broader, because if IT isn't the __driver of business__, then all IT decisions will be monetary decisions.
 
 - there's no point replacing a stone-age era technology, as long as it works,
 - there's no point speaking at a conference, because that's a cost that doesn't contribute to business,
@@ -66,7 +66,7 @@ What you want instead is a business pursuit you can believe in - big or small, l
 
 If you look at [Maslow's pyramid of needs][wpmaslow], the three qualities above align precisely with the top two layers of Esteem and Self-actualization:
 
-![Maslow's hierarchy of needs](/searching-for-geek-heaven/maslows-hierarchy.png)
+{{< figure src="/searching-for-geek-heaven/maslows-hierarchy.png" alt="Maslow's hierarchy of needs" >}}
 
 It goes without saying, that in order for a company to become a Geek Heaven, the bottom layers need already to be catered for. You certainly won't feel any good working at a place, where you may get fired any minute, you're [getting peanuts for your work][mpdevelopercost] or which is physically unsafe.
 

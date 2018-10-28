@@ -27,7 +27,7 @@ Google was merely one of many similar experiences. I once called up a company to
 - Larry Page and Sergey Brin [couldn't sell Google for a measly $1M to Yahoo, Excite and Infoseek][pagebrinhistory], later rejected Yahoo's $3B buyout offer.
 - J.K. Rowling's [Harry Potter was rejected by several publishers][jkrowlingrejected], one accepted and she became one of the richest women in the world.
 
-![Peanuts: Nobody likes me](/respectfully-rejected/nobody-likes-me.png)
+{{< figure src="/respectfully-rejected/nobody-likes-me.png" alt="Peanuts: Nobody likes me" >}}
 
 It's tempting to think of a candidate who didn't pass the interview as just not smart or talented enough. That's __almost always bollocks__. It's much more likely that the person you just met either
 

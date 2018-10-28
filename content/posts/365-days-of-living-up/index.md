@@ -17,7 +17,7 @@ On April 26, 2013 I activated my [Jawbone UP][jawboneup] and joined the [Quantif
 
 <!--more-->
 
-![Me wearing Jawbone UP](/365-days-of-living-up/michal-jawbone.jpg)
+{{< figure src="/365-days-of-living-up/michal-jawbone.jpg" alt="Me wearing Jawbone UP" >}}
 
 __Edit, June 2014:__ my Jawbone UP just died, after 14 months of continuous use. Symptoms point to a battery problem - the device seems to charge but always indicates an empty battery and quickly stops responding. Warranty lasts only 12 months, but [Jawbone sent me a replacement nonetheless][mpwhatgoesup].
 
@@ -33,7 +33,7 @@ I thought that [maybe UP wasn't accurate][trustingsoftware], so I actually count
 
 Reporting works well to the extent that movement of my left, UP-baring hand represents my activity. Walking is pretty correct. Biking shows nearly no movement, while a night of disco dancing (and I do tend to wave my hands a lot) reports slightly over 30,000 steps.
 
-![Recording of a disco dancing night](/365-days-of-living-up/jawbone-dancing.png)
+{{< figure src="/365-days-of-living-up/jawbone-dancing.png" alt="Recording of a disco dancing night" >}}
 
 ## Sleeping
 
@@ -56,7 +56,7 @@ Being a slow food lover, living in Poland, I had to enter most freshly cooked me
 
 UP attempts to go beyond merely [informing users of how they're doing][feeditback] health-wise, but also tries to [influence behavior change][amazondesignbehavior] for the better. Of course, that's really hard to achieve, because habits (including bad ones) by their very nature are deeply rooted in our personalities and extremely hard to evict. And while it's pleasing to see some of my achievements:
 
-![Milestone of 3.5M steps reached](/365-days-of-living-up/jawbone-3.5m-steps.png)
+{{< figure src="/365-days-of-living-up/jawbone-3.5m-steps.png" alt="Milestone of 3.5M steps reached" >}}
 
 overall the device fails to motivate. Maybe it's me. Maybe I don't have that much to improve upon. Or maybe the overall strategy is wrong.
 

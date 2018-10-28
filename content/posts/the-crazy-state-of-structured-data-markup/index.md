@@ -38,7 +38,7 @@ But wait, there's more.
 
 Since I'm using [WordPress]({{< ref "living-with-wordpress/index.md" >}}), some of its widgets output markup of the [microformats](http://microformats.org/) brand. These serve a similar purpose as Schema.org, but with a much smaller dictionary of entities. Little did I know that Google scanned it too and started complaining via Webmaster Tools that my implementation was incorrect:
 
-![Google Webmaster Tools Microformats Error](/the-crazy-state-of-structured-data-markup/webmaster-tools-microformats-error.png "Google Webmaster Tools Microformats Error")
+{{< figure src="/the-crazy-state-of-structured-data-markup/webmaster-tools-microformats-error.png" alt="Google Webmaster Tools Microformats Error" title="Google Webmaster Tools Microformats Error" >}}
 
 I complied, included the missing markup, and the code became:
 

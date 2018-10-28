@@ -53,7 +53,7 @@ The traditional response to "Agile doesn't work" is usually that, to the contrar
 
 Just because some people can [finish an IronMan race in 8 hours][ironman-jan-frodeno], that doesn't mean everyone can, and in fact, very few people will ever be able to complete the distance in _any_ time. It's a very personal experience, of talent, character and choices, just like work style.
 
-![Fair Exam](/teamwork-is-lesser-work/fair-exam-climb-tree.jpg)
+{{< figure src="/teamwork-is-lesser-work/fair-exam-climb-tree.jpg" alt="Fair Exam" >}}
 
 Why then do we continue to try and swim upstream? Work against human nature?
 

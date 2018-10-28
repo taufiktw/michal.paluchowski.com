@@ -35,7 +35,7 @@ From my first contact with [@JawboneSupport][twitterjawbonesupport] on June 24, 
 
 The new band is distinct in a few externally visible construction details. The button feels differently and it is rattling the same way it must've for [Zach Epstein][twitterzachepstein], who's [article][yhgivingupjawbone] I linked to above. He had his band replaced due to the rattling, for me it's not an issue.
 
-![Replacement Jawbone UP](/what-goes-up-must-come-down/up-replacement.jpg)
+{{< figure src="/what-goes-up-must-come-down/up-replacement.jpg" alt="Replacement Jawbone UP" >}}
 
 I'm hoping changes go beyond the visible and something was done to improve the band's longevity.
 

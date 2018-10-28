@@ -17,7 +17,7 @@ Have an API? No? So obscure. _Everybody_ has one these days as APIs were the fou
 
 APIs were all the rage that, along with [AJAX][wpajax], [kicked off Web 2.0][wpweb20]. By allowing others to tap into the features and data of your application, you could spark a whole community of clients and mash-ups, making you the __platform__. Twitter is a well known child of this era, where an [API was built first][twitterrapi], then Twitter's own clients as well as all the independent ones on top of it.
 
-![APIs, APIs everywhere](/api-thinking-vs-client-thinking/apis-apis-everywhere.png)
+{{< figure src="/api-thinking-vs-client-thinking/apis-apis-everywhere.png" alt="APIs, APIs everywhere" >}}
 
 This obviously takes away control of the application's future from its creators, putting it into the hands of a broader community. Example being again Twitter, where features such as [retweets were only added to the platform][twitterretweet] once they became widely used in independent clients. At some point Twitter decided to [reclaim control of its brand and user experience][twittercontrol], which started to diverge between applications. Certain requirements were imposed on how tweets may be displayed and what functions should be available. Break those and you may be kicked off the API completely.
 

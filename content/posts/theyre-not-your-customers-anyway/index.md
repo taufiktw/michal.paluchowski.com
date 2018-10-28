@@ -20,7 +20,7 @@ That bastard cracked your $1 app. _ONE DOLLAR_. That's all you asked in exchange
 
 Without diving too deep into a discussion on the usefulness of copyright, there are lessons we can learn from the fashion industry. It always had next to no intellectual property protection and a gigantic knock-off market (ever seen street stands with "genuine" Louis Vuitton bags?) Looking at how much sales the fashion industry is making, compared to high IP ones, they seem to be doing just fine:
 
-![Sales in high- versus low-IP protection industries](/theyre-not-your-customers-anyway/ip-industry-sales1.png)
+{{< figure src="/theyre-not-your-customers-anyway/ip-industry-sales1.png" alt="Sales in high- versus low-IP protection industries" >}}
 
 Still, fashion designers must be feeling awful watching people buying all this counterfeit apparel, enjoying the results of their work without payment, and will pursue every opportunity to curb that market, right? Not quite. Addressing the issue, Gucci's legend [Tom Ford][wptomford] said:
 

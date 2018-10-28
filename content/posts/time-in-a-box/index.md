@@ -47,7 +47,7 @@ Finally, by imposing scarcity on time, timeboxing helps sharpen focus and defeat
 
 If you're like me, you'll look for tools to help you track the timeboxes. **Don't overcomplicate it.** It's a very simple technique that will work *just fine* with a simple kitchen timer (though you might want to use something more discrete, like a cell phone timer, since these things tick and ring like crazy):
 
-![Cat kitchen timer](/time-in-a-box/cat-kitchen-timer.jpg)
+{{< figure src="/time-in-a-box/cat-kitchen-timer.jpg" alt="Cat kitchen timer" >}}
 
 and for timeboxes spanning multiple days, just mark the cut-off on a calendar that **you're sure to see.** Teams working with Scrum will likely want to highlight the end of their timebox on a Scrum Board, where everyone can see it.
 

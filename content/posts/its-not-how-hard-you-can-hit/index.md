@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-The startup scene in Warsaw, and Poland in general, is about to go through its first major trial. It started to heat up a year, maybe two years ago, with teams &amp; ideas springing up everywhere. [$1B acquisitions](http://techcrunch.com/2012/04/09/instagram-story-facebook-acquisition/) are a major inspiration and caffeine-laden parties like the Startup Weekend only add fuel to the fire. Now, when the toughest leftovers from the scene's pioneers are failing, more and more people will start wondering whether to call the whole thing off and get a "real" job. I expect many will.
+The startup scene in Warsaw, and Poland in general, is about to go through its first major trial. It started to heat up a year, maybe two years ago, with teams & ideas springing up everywhere. [$1B acquisitions](http://techcrunch.com/2012/04/09/instagram-story-facebook-acquisition/) are a major inspiration and caffeine-laden parties like the Startup Weekend only add fuel to the fire. Now, when the toughest leftovers from the scene's pioneers are failing, more and more people will start wondering whether to call the whole thing off and get a "real" job. I expect many will.
 
 Here's when the fun begins.
 

@@ -40,7 +40,7 @@ However... I'm a _big_ believer in good, old paper. Turns out it's [excellent fo
 
 That might explain why I had some of my best ideas when scribbling in my Moleskine. It's free-form. I enhance text with drawings, annotations that would take way too much time to produce on any electronic device. Ask any "creative" person and there's a good chance he or she uses Moleskines for these very reasons.
 
-![Moleskine](/paper-has-a-big-future/moleskine.jpg)
+{{< figure src="/paper-has-a-big-future/moleskine.jpg" alt="Moleskine" >}}
 
 I will __always print out my travel itineraries__, boarding passes, despite having them on all mobile devices I carry. The paper is there when all tech fails, because by Murphy's laws, batteries tend to die in the least convenient moments. Last thing I want is to be stranded on some airport because I can't present my boarding pass.
 

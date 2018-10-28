@@ -30,7 +30,7 @@ __Session selection__ comes first. Conference schedules usually appear piece by 
 
 I __add selected sessions into Google Calendar__, synchronized across all of my devices. Some conferences have dedicated apps to store one's schedule, but these [may or may not work to my liking][mp-trusting-software] or could have issues on shaky Wi-Fi. Plus I quickly would've acquired a pile of useless apps and accounts.
 
-![GOTO Berlin schedule in Calendar](/michals-conference-war-chest/goto-berlin-conference-schedule.png)
+{{< figure src="/michals-conference-war-chest/goto-berlin-conference-schedule.png" alt="GOTO Berlin schedule in Calendar" >}}
 
 I'm really big on notes. Before the conference I __setup a fresh Google Doc__, since I'll be [taking notes on a tablet][mp-paper-big-future], with pre-entered:
 
@@ -38,7 +38,7 @@ I'm really big on notes. Before the conference I __setup a fresh Google Doc__, s
 * names and
 * Twitter handles of speakers.
 
-![GOTO Berlin conference notes](/michals-conference-war-chest/GOTO-Berlin-conference-notes.png)
+{{< figure src="/michals-conference-war-chest/GOTO-Berlin-conference-notes.png" alt="GOTO Berlin conference notes" >}}
 
 Using Google Docs has a number of advantages:
 
@@ -61,7 +61,7 @@ The conference days are always intense, both physically as well as mentally, so 
 
 I __carry my own shoulder bag__, currently the excellent Camel Active Dakar, which contains my tablet, wallet, business cards and a pen or two.
 
-![Camel Active Dakar shoulder bag](/michals-conference-war-chest/camel-active-dakar-bag.jpg)
+{{< figure src="/michals-conference-war-chest/camel-active-dakar-bag.jpg" alt="Camel Active Dakar shoulder bag" >}}
 
 Conferences usually hand out their own bags, but most of these aren't convenient to carry around for a full day. I carefully selected a good bag, that:
 
@@ -71,7 +71,7 @@ Conferences usually hand out their own bags, but most of these aren't convenient
 * easily __fits into my lap__ during a session, when space is tight,
 * carries everything I need---the Camel one can easily carry a 12" laptop or A4-sized documents.
 
-![Michal taking notes at CraftConf 2015](/michals-conference-war-chest/michal-CraftConfconf-notetaking.jpg)
+{{< figure src="/michals-conference-war-chest/michal-CraftConfconf-notetaking.jpg" alt="Michal taking notes at CraftConf 2015" >}}
 
 My __device for note taking is currently the [iPad Air 2][apple-ipad-air2]__. A laptop wouldn't do because the vast majority won't last a full day on batteries and I sure as hell don't want to waste time on recharging.
 
