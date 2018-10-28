@@ -16,7 +16,7 @@ Unexciting. That's the one word I would use to describe this year's edition of G
 
 This year was my second time at GOTO Berlin, after I attended in December 2015. I came back because the first time I was really satisfied with the content. Lots of fresh, practical, accessible ideas, well-presented (unlike, say, QCon London 2016). Plus, the keynotes were tremendous fun.
 
-![GOTO Berlin 2017 Convention Hall][goto-berlin-convention-hall]
+{{< figure src="/the-unexciting-goto-berlin-2017/goto-berlin-convention-room.jpg" alt="GOTO Berlin 2017 Convention Hall" >}}
 
 Keynotes are always tricky for the organizers, because you want them to be somewhat abstracted from the low-level themes of sessions, but not too far away, so that the audience can still relate. Plus, they need really engaging speakers. GOTO Berlin pulled this off perfectly. The 2015 edition had space-themed keynotes about the [Apollo][gotober-2015-apollo] and [Space Shuttle][gotober-2015-space-shuttle] programs, _mighty_ interesting. This year featured a variety: Mars exploration, data science, autonomous systems and data security. Really, really good content.
 
@@ -45,5 +45,4 @@ It may be that the industry has changed. Reflected on itself and found that __te
 [gotober-2015-space-shuttle]: https://www.youtube.com/watch?v=AyrRoKN_kvg
 [rust-lang]: https://www.rust-lang.org/
 [webassembly]: http://webassembly.org/
-[goto-berlin-convention-hall]: /the-unexciting-goto-berlin-2017/goto-berlin-convention-room.jpg
 
