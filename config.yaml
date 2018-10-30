@@ -15,14 +15,14 @@ params:
   logo:
     path: /img/mpaluchowski.jpg
     alt: Michał Paluchowski
-  social:
-    - name: Twitter
-      url: https://twitter.com/mpaluchowski
-    - name: GitHub
-      url: https://github.com/mpaluchowski
 menu:
   blogs:
     - name: Travel
       url: https://travel.paluchowski.com/
     - name: Triathlon
       url: https://triathlon.paluchowski.com/
+  social:
+    - name: Twitter
+      url: https://twitter.com/mpaluchowski
+    - name: GitHub
+      url: https://github.com/mpaluchowski
