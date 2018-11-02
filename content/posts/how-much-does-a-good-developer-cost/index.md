@@ -11,8 +11,6 @@ tags:
   - hiring
   - talent
 favorites: true
-menu:
-  - readingList
 ---
 
 10 is more than 5. Hiring a great developer for 10 a month costs twice as much as hiring a good developer for 5. Maybe you're not building the [next Google](http://research.google.com/pubs/papers.html). Maybe you're not working on processing petabytes of [CERN experiment data](http://public.web.cern.ch/public/en/LHC/LHC-en.html). You probably don't need a genius to write the code of your application. You hire the good one and pay less, then end up paying way more.

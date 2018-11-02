@@ -12,8 +12,6 @@ tags:
   - marketing
 image: /respectfully-rejected/nobody-likes-me.png
 favorites: true
-menu:
-  - readingList
 ---
 
 "I'm sure _somebody_ will get in touch with you", sneered the Google developer, closing a phone interview I went through years ago. By then I knew I wouldn't get the job, but these words and their tone convinced me that I shouldn't try again for years to come. The way in which a company rejects job candidates speaks tomes about its culture.

@@ -11,8 +11,6 @@ tags:
   - productivity
   - tools
 image: /michals-conference-war-chest/michal-CraftConfconf-notetaking.jpg
-menu:
-  - readingList
 ---
 
 It's not unusual for conferences to cost _an arm and a leg_. At €1,000 or more for just the entry, on top of which come travel and accommodation, and I often attend two or three events a year. That's a _pile_ of money in need of justification spending, and I can only do so if I bring back lots of valuable information. Here's what I do nowadays---the tools and tricks I worked out for surviving and thriving as a conference attendee.

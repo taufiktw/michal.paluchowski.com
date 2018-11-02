@@ -11,8 +11,6 @@ tags:
   - usability
 image: /antique-inspirations-for-software-architects/millau-viaduct.jpg
 favorites: true
-menu:
-  - readingList
 ---
 
 The Roman architect [Vitruvius][wp_vitruvius] around the year 15 BC completed his impressive, ten-volume treatise on architecture---[De Architectura][wp_de_architectura]. It covers every possible type of man-made structure ever needed by the people of his time, but starts out wisely by prescribing _basic_ qualities that good architecture _must_ embody:

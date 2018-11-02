@@ -10,8 +10,6 @@ tags:
   - organizations
   - personal development
 favorites: true
-menu:
-  - readingList
 ---
 
 We'd _love_ to love our jobs. To the point where we can't stand how long a weekend is, before we may go back to work on Monday. Utopia? Not at all. I know people who genuinely love their jobs, who found their geek and non-geek heavens. And I have my own criteria for evaluating companies I would consider joining.

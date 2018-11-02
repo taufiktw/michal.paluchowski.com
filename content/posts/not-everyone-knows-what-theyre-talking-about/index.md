@@ -10,8 +10,6 @@ tags:
   - leadership
   - motivation
 favorites: true
-menu:
-  - readingList
 ---
 
 I can't watch presentations anymore. Having been an active [Toastmaster]({{< ref "we-should-all-be-toastmasters/index.md" >}} "We should all be Toastmasters") for some time, I notice all the speakers' mistakes. The "_uhm_" sounds, the non-purposeful fidgeting, the illogical sequence of ideas, the obsolete information. I can barely hear what the speaker is saying.
