@@ -8,6 +8,7 @@ tags:
   - effectiveness
   - leadership
   - management
+short: true
 ---
 
 "_Eat your broccoli!_", "_Clean your room!_", "_Brush your teeth!_" Sounds familiar? It's the tune of the past, when your parents controlled each and every aspect of your life. With the exception of toilet use, perhaps. For many people however, the past lives on. Parents turned into line managers, while kids remained kids, but with fancy titles: Senior Software Engineer, Enterprise Architect, etc. "_Send that e-mail_", "_call that guy_", "_re-estimate that plan_." _Smart_ managers turn orders into questions: "_can you send that e-mail, please?_" Sure, boss.
