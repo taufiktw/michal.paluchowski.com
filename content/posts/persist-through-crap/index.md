@@ -8,6 +8,7 @@ tags:
   - criticism
   - hardship
   - success
+short: true
 ---
 
 "_Per aspera ad astra_" they used to say back when English was spoken only on an island in wild Europe. The road to success is mighty bumpy and once you arrive, you're __exposed__. You will get noticed. And once you do, a lot of people will attempt to diminish your talent, skills and achievements.

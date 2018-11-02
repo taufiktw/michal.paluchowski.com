@@ -11,6 +11,8 @@ short: true
 
 [Posterous][posterous] is likely gone by the time you're reading this. [Acquired by Twitter in 2012][tcposteroustwitter], [closed down in the end of April 2013][tcposterousshutdown]. I checked my options and considering:
 
+<!--more-->
+
 * existing URLs need to work for SEO reasons,
 * I'm not willing to pay much for hosting this blog, writing being a minor side activity that I do,
 * I want to avoid moving this elsewhere again in a few months if another Posterous-like service goes down.

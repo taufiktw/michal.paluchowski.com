@@ -7,6 +7,7 @@ categories:
 tags:
   - employees
   - management
+short: true
 ---
 
 Human _resources_ they call them. The drones that keep typing on their keyboards producing lines of text that make monitors light up in different colors, depending on what other drones type. They're characterized by output, productivity, typing speed, number of bugs introduced to code, days taken off for holidays or sick leave, availability as percentage of time. Those pesky _employees_.

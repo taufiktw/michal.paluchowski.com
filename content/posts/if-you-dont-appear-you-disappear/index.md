@@ -8,6 +8,7 @@ tags:
   - sales
   - startup
   - trust
+short: true
 ---
 
 Who _are_ you? How do you expect me to _trust_ you? I know you do, because you're trying to sell me something. You're a startup; you put together a cool tool, working with your friends in a garage. You're ready to hit the market. No-one knows you.

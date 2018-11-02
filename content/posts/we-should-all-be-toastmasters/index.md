@@ -8,6 +8,7 @@ tags:
   - communication
   - public speaking
   - training
+short: true
 ---
 
 We all communicate. If you're reading this, then I am communicating a message to you and if I don't structure, construct and present it well, you'll stop reading after the next sentence. Or worse, you'll read to the end and forget all about it minutes afterwards. That would mean we both wasted time - me writing, you reading.

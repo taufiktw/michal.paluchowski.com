@@ -9,6 +9,7 @@ tags:
   - management
   - productivity
   - tools
+short: true
 ---
 
 I do. It glides easily over my clothes, leaving finely straightened surfaces. It has a big water tank and is very efficient, with one load usually being enough for a whole load of clothes. It simply makes ironing easy, almost... fun.

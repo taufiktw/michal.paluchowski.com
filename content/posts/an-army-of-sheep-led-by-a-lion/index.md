@@ -8,6 +8,7 @@ tags:
   - leadership
   - management
   - personal development
+short: true
 ---
 
 I've yet to see a company that, having sound leadership, failed. I've also never seen one to succeed with bad leaders. And the surprise is that being a "*good*" or "*bad*" leader has **nothing to do** with how you treat people around you. You can be a tyrant (Steve Jobs), a bully (Bill Gates), a corsair (Larry Ellisson) or a friendly, passionate geek (Larry Page, Sergey Brin) and succeed nonetheless. But if you lead in the wrong direction, then boy, you'll hit an iceberg sooner than you can spell "Titanic".

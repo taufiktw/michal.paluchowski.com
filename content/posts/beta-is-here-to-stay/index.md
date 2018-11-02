@@ -8,6 +8,7 @@ tags:
   - business
   - competition
   - software
+short: true
 ---
 
 Every web application is in "beta" these days. It's these pesky developers excusing buggy software by saying "we're working on it, so expect a few quirks". Can't they deliver quality? Not really, folks, sorry. Business is too quick nowadays.

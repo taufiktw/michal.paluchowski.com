@@ -7,6 +7,7 @@ categories:
 tags:
   - feedback
   - social media
+short: true
 ---
 
 An endless stream of music videos, LOL content and the occasional drunk party photo. Facebook has become the new TV with 500 different channels and absolutely nothing on. Nothing we consider worthwhile watching or discussing. And a solution is 2 steps away:

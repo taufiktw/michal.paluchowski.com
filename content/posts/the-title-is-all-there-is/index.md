@@ -9,6 +9,7 @@ tags:
   - copywriting
   - personal marketing
   - public speaking
+short: true
 ---
 
 I was invited once to [speak]({{< ref "if-you-dont-appear-you-disappear/index.md" >}}) at a [Toastmasters]({{< ref "we-should-all-be-toastmasters/index.md" >}}) Leadership Institute, about the Leadership Track of the organization's educational program. I crafted a short title:

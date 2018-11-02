@@ -10,6 +10,7 @@ tags:
   - sales
   - startup
 favorites: true
+short: true
 ---
 
 Being in a _startup_ means going to _startup_ events to meet other _startups_ and talk about _startups_. You may think of a "startup" as two guys working feverishly in a garage and suddenly dropping the bomb of a revolutionary new product onto the unsuspecting world. But what I saw is best summarized by a friend's comment: "_have you actually seen them ship anything?_"
