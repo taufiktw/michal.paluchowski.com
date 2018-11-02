@@ -1,5 +1,5 @@
 metaDataFormat: yaml
-theme: mpaluchowski-2014
+theme: mpaluchowski-2019
 baseURL: https://michal.paluchowski.com
 permalinks:
   posts: /:filename
