@@ -9,6 +9,7 @@ tags:
   - feedback
   - leadership
   - motivation
+favorites: true
 menu:
   - readingList
 ---

@@ -10,6 +10,7 @@ tags:
   - developers
   - hiring
   - talent
+favorites: true
 menu:
   - readingList
 ---

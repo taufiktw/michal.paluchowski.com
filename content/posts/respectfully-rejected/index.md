@@ -11,6 +11,7 @@ tags:
   - image
   - marketing
 image: /respectfully-rejected/nobody-likes-me.png
+favorites: true
 menu:
   - readingList
 ---

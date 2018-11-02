@@ -9,6 +9,7 @@ tags:
   - money
   - sales
   - startup
+favorites: true
 menu:
   - readingList
 ---

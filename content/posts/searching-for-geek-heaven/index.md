@@ -9,6 +9,7 @@ tags:
   - employees
   - organizations
   - personal development
+favorites: true
 menu:
   - readingList
 ---

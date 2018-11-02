@@ -10,6 +10,7 @@ tags:
   - software architecture
   - usability
 image: /antique-inspirations-for-software-architects/millau-viaduct.jpg
+favorites: true
 menu:
   - readingList
 ---
