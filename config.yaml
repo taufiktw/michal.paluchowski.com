@@ -6,12 +6,13 @@ permalinks:
   pages: /:filename
   tags: /tag/:slug
 languageCode: "en-us"
-paginate: 5
+paginate: 10
 googleAnalytics: UA-2971180-9
 title: "Michał's Bites"
 copyright: Made in Warsaw by Michał Paluchowski. All text and code is under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
 params:
   subtitle: Recipes for a software business
+  twitter: mpaluchowski
   logo:
     path: /img/mpaluchowski.jpg
     alt: Michał Paluchowski
