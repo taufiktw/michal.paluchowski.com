@@ -1,8 +1,11 @@
 RewriteEngine On
 
 Redirect permanent "/sitemapindex.xml" "/sitemap.xml"
+Redirect permanent "/sitemap.xml/sitemap.xml" "/sitemap.xml"
 RedirectMatch permanent "^/files/(.*)" "/$1"
 Redirect permanent "/rss.xml" "/index.xml"
+Redirect permanent "/rss" "/index.xml"
+Redirect permanent "/atom" "/index.xml"
 RedirectMatch permanent "^/feed/?" "/index.xml"
 RedirectMatch permanent "^/tag/(.*?)/feed/?" "/tag/$1/index.xml"
 RewriteCond %{QUERY_STRING} tag=qualityassurance
