@@ -23,7 +23,7 @@ Those windows are yours to take, providing you __accept the conditions__.
 
 Since these companies operate around the world, your [perfect opportunity][mpgeekheaven] might pop up somewhere _far away_ from whatever you consider home now. Perhaps you live in Warsaw while a new office opens up in Singapore and needs someone experienced with the business to go set it up. You're being offered the position, since you've been doing a great job so far and demonstrated competence beyond your current role. Here's your airplane ticket and we'll take care of shipping your belongings. _What say you?_
 
-![Dilbert sent to Elbonia][dilbertelbonia]
+{{< figure alt="Dilbert sent to Elbonia" src="/a-corporate-career-may-take-you-places/dilbert-elbonia-spy.gif" >}}
 
 ## Make your decision
 
@@ -66,5 +66,3 @@ A conscious decision and a light lifestyle. Certainly not for everyone, but if y
 [thmbiz]: http://www.thmbiz.co.uk/About+Us.php
 [thmbiztraining]: http://www.thmbiz.co.uk/Management+Training.php
 [wpsunkcost]: http://en.wikipedia.org/wiki/Sunk_costs
-[dilbertelbonia]: /a-corporate-career-may-take-you-places/dilbert-elbonia-spy.gif
-
