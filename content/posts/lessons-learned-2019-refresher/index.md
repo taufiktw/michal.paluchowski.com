@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-Notice anything new? [2014 was the last time I designed a new layout]({{< relref "posts/living-with-wordpress/index.md" >}}) for this blog and it was time for a refresh. Five years is a lot of time to learn new things, so I thought I'd write up what's different about the blog this time---in code and in content.
+Notice anything new? [2014 was the last time I designed a new layout]({{< relref "/posts/living-with-wordpress/index.md" >}}) for this blog and it was time for a refresh. Five years is a lot of time to learn new things, so I thought I'd write up what's different about the blog this time---in code and in content.
 
 <!--more-->
 
@@ -38,7 +38,7 @@ I did notice, however, how much photos and similar content breaks the flow of te
 
 Content is king. __Content comes first__. I always believed it and I still do. There's very little chrome on the pages here, leaving lots of space for text, which I tried to lay out to the best of my abilities. I want as little as possible distracting the reader. I can't _stand_ pages that put thousands of notifications in my face before I get to see any content, which itself is surrounded by a million vaguely related pieces. Not here. This is tranquility and focus.
 
-Moving uproots content and one always needs to __[take care of the URLs]({{< relref "posts/for-the-love-of-urls/index.md" >}})__. Some will inevitably go away, like the comments I removed and thus there are no more RSS feeds for them. These are fine to cause 404 errors, but for everything else there should be proper 301 redirects. I set up the `.htaccess` file to cover for these and keep watching the 404 logs for other items I might have missed.
+Moving uproots content and one always needs to __[take care of the URLs]({{< relref "/posts/for-the-love-of-urls/index.md" >}})__. Some will inevitably go away, like the comments I removed and thus there are no more RSS feeds for them. These are fine to cause 404 errors, but for everything else there should be proper 301 redirects. I set up the `.htaccess` file to cover for these and keep watching the 404 logs for other items I might have missed.
 
 The design is __mobile first__. I actually started designing for the iPhone 6 screen and only once this was finished and usable did I expand to the bigger screens. There's a good chance you're reading this on a mobile device. I hope you're enjoying the results.
 
