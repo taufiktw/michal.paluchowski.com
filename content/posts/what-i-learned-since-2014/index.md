@@ -1,6 +1,6 @@
 ---
 author: michal
-title: "Lessons Learned 2019 Refresher"
+title: "What I learned since 2014"
 date: 2018-11-03T21:39:10+01:00
 categories:
   - Personal
