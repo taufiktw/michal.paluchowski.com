@@ -19,4 +19,4 @@ This isn't to say that you should immediately burn your copy of [How to Win Frie
 
 Being a great leader may motivate people to row faster, but it won't help anyone if you're all heading for a cliff.
 
-[amazhowtowin]: http://www.amazon.com/gp/product/B003WEAI4E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003WEAI4E&linkCode=as2&tag=micsbit-20
+[amazhowtowin]: https://www.amazon.com/gp/product/B003WEAI4E/

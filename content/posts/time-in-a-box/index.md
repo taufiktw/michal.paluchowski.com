@@ -61,7 +61,7 @@ Thanks to [Jarek Piotrowski][jarekptwitter] for motivating me to write this post
 [pomodoro]: http://pomodorotechnique.com/
 [thinkingfastslow]: https://www.amazon.com/gp/product/B00555X8OA/
 [mpmeanagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
-[aatimeboxing]: http://guide.agilealliance.org/guide/timebox.html
+[aatimeboxing]: https://www.agilealliance.org/glossary/timebox
 [jarekptwitter]: https://twitter.com/JarekP
 [darrenwflickr]: https://www.flickr.com/photos/darrenkw/
 

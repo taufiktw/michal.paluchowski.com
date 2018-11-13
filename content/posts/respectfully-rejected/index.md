@@ -65,4 +65,3 @@ People remember. Negative experiences remain in memory much sharper than positiv
 [mptalkabout]: {{< ref "not-everyone-knows-what-theyre-talking-about/index.md" >}}
 [mphowhardhit]: {{< ref "its-not-how-hard-you-can-hit/index.md" >}}
 [mpfeeditback]: {{< ref "feed-it-back/index.md" >}}
-

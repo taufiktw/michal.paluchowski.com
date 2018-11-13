@@ -40,11 +40,10 @@ __Focus on your customers__ - those who _do_ pay, because they value how your wo
 
 [mpagilebusiness]: {{< ref "agile-is-the-business-approach-to-software-en/index.md" >}}
 [mptimeinabox]: {{< ref "time-in-a-box/index.md" >}}
-[tedlessonsfashion]: http://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture
+[tedlessonsfashion]: https://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture
 [tedxusc]: http://www.ted.com/tedx/events/3558
 [tomfordreadytoshare]: https://www.youtube.com/watch?v=lCzVcgwheWk
 [twitterjohannab]: https://twitter.com/Mojojohanna
-[wptomford]: http://en.wikipedia.org/wiki/Tom_Ford
+[wptomford]: https://en.wikipedia.org/wiki/Tom_Ford
 
 *[IP]: Intellectual Property
-

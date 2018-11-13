@@ -34,4 +34,3 @@ It's complicated. There's no good number or even range of years one "should" spe
 [mb-deciding-to-decide]: {{< ref "deciding-to-decide-when-the-time-is-right/index.md" >}}
 [mb-searching-geek-heaven]: {{< ref "searching-for-geek-heaven/index.md" >}}
 [mb-talk-like-own-place]: {{< ref "talking-like-you-own-the-place/index.md" >}}
-

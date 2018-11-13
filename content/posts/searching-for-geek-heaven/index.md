@@ -89,8 +89,8 @@ You're a geek. You're doing a job that's highly in demand these days and will re
 [amazonstartwithwhy]: https://www.amazon.com/gp/product/B002Q6XUE4/
 [atlassiancompany]: https://www.atlassian.com/company
 [cnnjackwelch]: http://transcripts.cnn.com/TRANSCRIPTS/1106/11/pmt.01.html
-[etsyabout]: http://www.etsy.com/developers
-[gatesmalaria]: http://www.gatesfoundation.org/What-We-Do/Global-Health/Malaria
+[etsyabout]: https://www.etsy.com/developers
+[gatesmalaria]: https://www.gatesfoundation.org/What-We-Do/Global-Health/Malaria
 [githubabout]: https://github.com/about
 [googleabout]: https://www.google.com/intl/en/about/company/philosophy/
 [mpchangesinvestments]: {{< ref "big-changes-are-long-term-investments/index.md" >}}
@@ -99,8 +99,7 @@ You're a geek. You're doing a job that's highly in demand these days and will re
 [mpwhatmeansagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
 [netflixblog]: http://techblog.netflix.com/
 [spotifydev]: https://developer.spotify.com/
-[tedsinek]: http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
+[tedsinek]: https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 [thinkfastslow]: https://www.amazon.com/gp/product/B00555X8OA/
-[wikimaslovpyramidimg]: http://en.wikipedia.org/wiki/File:Maslow%27s_hierarchy_of_needs.svg
-[wpmaslow]: http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
-
+[wikimaslovpyramidimg]: https://en.wikipedia.org/wiki/File:Maslow%27s_hierarchy_of_needs.svg
+[wpmaslow]: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs

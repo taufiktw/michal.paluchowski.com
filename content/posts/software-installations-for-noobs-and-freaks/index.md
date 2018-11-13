@@ -25,4 +25,3 @@ Every piece of software - as big as an operating system or as small as an instan
 What we're getting instead is usually a mix of both. Noobs find the installation process too daunting, to the point where they're just confused and keep clicking "Next". Freaks find it mostly unsatisfying, distrustful about the installer doing something they would probably not approve of. Nobody's happy.
 
 Think of installing software as the "unpacking experience", like Steve Jobs always emphasized it, and Apple continues to do. It's the first experience a user may have with your application and you want it to be as comfortable and pleasant as possible. Do your users a favor and design your installation process, just like you design your application.
-

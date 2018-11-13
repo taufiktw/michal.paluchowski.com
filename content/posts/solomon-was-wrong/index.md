@@ -39,4 +39,3 @@ There are no logs to carry in white collar companies, but there are just as many
 [amtriballeadership]: https://www.amazon.com/gp/product/B0012GTZFC/
 [tedpowell]: http://www.ted.com/talks/colin_powell_kids_need_structure.html
 [mpteamneverwas]: {{< ref "a-team-that-never-was/index.md" >}} "A team that never was"
-

@@ -84,4 +84,3 @@ If the API is done right, it's an investment that pays back many times the effor
 *[AJAX]: Asynchronous JavaScript and XML
 *[API]: Application Programming Interface
 *[YAGNI]: You Aren't Gonna Need It
-

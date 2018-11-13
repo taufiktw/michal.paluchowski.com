@@ -46,10 +46,9 @@ I'm not so much worried about the possibility of [Jawbone selling off my data][j
 For now I'm hoping my new band will accompany me longer than the previous one, and for soon-to-be users of the device, I hope Jawbone will work up enough confidence in their product that they start offering two years or more of safety, replacements available without exceptions, just in case.
 
 [ericwearablesreview]: http://www.ideasonideas.com/2013/02/are-wearables-the-change-we-need/
-[jawbonedataprocessing]: http://www.slashgear.com/jawbone-talks-context-in-bid-to-rule-wearables-slashgear-interview-06319626/
-[jawboneselldata]: http://www.refinery29.com/2014/01/61656/fitness-band-data-privacy
+[jawbonedataprocessing]: https://www.slashgear.com/jawbone-talks-context-in-bid-to-rule-wearables-slashgear-interview-06319626/
+[jawboneselldata]: https://www.refinery29.com/en-us/2014/01/61656/fitness-band-data-privacy
 [mplivingup]: {{< ref "365-days-of-living-up/index.md" >}}
 [twitterjawbonesupport]: https://twitter.com/JawboneSupport
 [twitterzachepstein]: https://twitter.com/zacharye
-[yhgivingupjawbone]: http://bgr.com/2013/08/15/jawbone-up-vs-fitbit-flex-review/
-
+[yhgivingupjawbone]: https://bgr.com/2013/08/15/jawbone-up-vs-fitbit-flex-review/

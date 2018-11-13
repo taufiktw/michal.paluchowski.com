@@ -68,11 +68,10 @@ I look back at [some thinking I did years ago on teams][mp-team-never-was] and r
 [amazon-59-seconds]: https://www.amazon.com/59-Seconds-Think-Little-Change-ebook/dp/B002W8QXHW/
 [amazon-end-of-overating]: https://www.amazon.com/End-Overeating-Insatiable-American-Appetite-ebook/dp/B0025VKJNA/
 [amazon-mindless-eating]: https://www.amazon.com/Mindless-Eating-More-Than-Think-ebook/dp/B000MAHC0E/
-[dunbars-number]: http://www.newyorker.com/science/maria-konnikova/social-media-affect-math-dunbar-number-friendships
+[dunbars-number]: https://www.newyorker.com/science/maria-konnikova/social-media-affect-math-dunbar-number-friendships
 [fall2016-d95conf-team]: http://fall2016.d95conf.org/contact
 [fall2016-d95conf]: http://fall2016.d95conf.org/
-[ironman-jan-frodeno]: http://www.triathlete.com/2016/10/ironman/2016-kona-winners-gallery-jan-frodeno_294887
+[ironman-jan-frodeno]: https://www.triathlete.com/2016/10/features/2016-kona-winners-gallery-jan-frodeno_294887
 [mp-team-never-was]: {{< ref "a-team-that-never-was/index.md" >}}
 [mp-what-mean-agile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
 [toastmasters-poland]: https://toastmasters.pl/en/
-

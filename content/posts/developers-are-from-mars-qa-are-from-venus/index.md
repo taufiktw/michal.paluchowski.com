@@ -27,7 +27,7 @@ Sounds obvious if you're an Agile zealot, right? Notice how I never used [the "A
 
 Testing is not separate from developing. It never has been, but today, when software requirements and markets change all the time, and so does source code, it's more expensive than ever to keep a QA team separated from development. For the sake of your company's success, stop doing that now.
 
-[selenium]: http://seleniumhq.org/
+[selenium]: https://www.seleniumhq.org/
 [mbagile]: /what-does-it-mean-to-be-agile
 [mstesting]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.1577&rep=rep1&type=pdf
 

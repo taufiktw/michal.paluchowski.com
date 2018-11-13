@@ -70,13 +70,13 @@ As a consequence, I have **the same data three-four times in the page**:
 
 It's like adding extra CSS for some older versions of Internet Explorer with `<!--[if lt IE 9]>`. Overhead and waste.
 
-There is, perhaps, an end to this in sight. The W3C, just a few months ago, published a [draft specification of Microdata](http://www.w3.org/TR/microdata/), which essentially is Schema.org as part of HTML5.
+There is, perhaps, an end to this in sight. The W3C, just a few months ago, published a [draft specification of Microdata](https://www.w3.org/TR/microdata/), which essentially is Schema.org as part of HTML5.
 
 I like the Schema.org specification best, because it's rich, consistent and impossible to confuse with other markup. Using the `class` attribute for structured data is logically sound (`<article class="blog-post">` speaks well of the type of the article), but if you place it in any slightly complex web layout, maintained by many people, it's easy to mix and confuse with styling values. That means it's likely to be accidentally removed or changed.
 
 At the same time, Schema.org markup gets added right onto content markup, without the overhead of duplication in the `<head>` or elsewhere - again a maintenance nightmare waiting to happen.
 
-Both Facebook and Twitter are certainly powerful enough to enforce their own solutions (think Facebook's latest [announcement of Hack](https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/)), but if Google and Bing were able to come together and agree on one standard, I'm sure other big names can join the party too. The fewer standards on the market, the broader the adoption, easier parsing and ultimately better content is served to end users.
+Both Facebook and Twitter are certainly powerful enough to enforce their own solutions (think Facebook's latest [announcement of Hack](https://code.fb.com/developer-tools/hack-a-new-programming-language-for-hhvm/)), but if Google and Bing were able to come together and agree on one standard, I'm sure other big names can join the party too. The fewer standards on the market, the broader the adoption, easier parsing and ultimately better content is served to end users.
 
 *[HTML]: HyperText Markup Language
 *[CSS]: Cascading Style Sheets

@@ -88,11 +88,10 @@ Keep asking yourself whether you have enough data and work to verify whether wha
 [mpsolomonwrong]: {{< ref "solomon-was-wrong/index.md" >}}
 [mptimeboxing]: {{< ref "time-in-a-box/index.md" >}}
 [mpwhatmeansagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
-[oxddecision]: http://www.oxforddictionaries.com/definition/english/decision
+[oxddecision]: https://en.oxforddictionaries.com/definition/decision
 [programmingmotherfucker]: http://programming-motherfucker.com/
-[wpchiefsofstaff]: http://en.wikipedia.org/wiki/Chairman_of_the_Joint_Chiefs_of_Staff
-[wpcolinpowell]: http://en.wikipedia.org/wiki/Colin_Powell
-[wpsecofstate]: http://en.wikipedia.org/wiki/United_States_Secretary_of_State
+[wpchiefsofstaff]: https://en.wikipedia.org/wiki/Chairman_of_the_Joint_Chiefs_of_Staff
+[wpcolinpowell]: https://en.wikipedia.org/wiki/Colin_Powell
+[wpsecofstate]: https://en.wikipedia.org/wiki/United_States_Secretary_of_State
 
 *[CEO]: Chief Executive Officer
-

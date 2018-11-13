@@ -16,11 +16,9 @@ Human _resources_ they call them. The drones that keep typing on their keyboards
 
 People are __not__ machines. A __machine__ is something built in a cumulative output of human knowledge. An expression of human potential. For any machine there is a constructor, who
 
-
 - knows how it was built,
 - understands how it works,
 - can construct it anew.
-
 
 Can someone construct a person? Does anyone understand how each and every part of the human body works?
 We are creative, surprising, non-deterministic, self-repairing and __irreplaceable__. If we were easy to replace, why would we have cemeteries?

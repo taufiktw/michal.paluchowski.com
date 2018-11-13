@@ -23,6 +23,6 @@ We already know how badly [everyone needs feedback][mpfeedback]. Both on the goo
 
 [mpfeedback]: {{< ref "feed-it-back/index.md" >}} "Feed it back"
 [mptoastmasters]: {{< ref "we-should-all-be-toastmasters/index.md" >}} "We should all be Toastmasters"
-[tedbillg]: http://www.ted.com/talks/bill_gates_teachers_need_real_feedback.html "Bill Gates: Teachers Need Real Feedback"
+[tedbillg]: https://www.ted.com/talks/bill_gates_teachers_need_real_feedback "Bill Gates: Teachers Need Real Feedback"
 
 *[LOL]: Laugh Out Loud
