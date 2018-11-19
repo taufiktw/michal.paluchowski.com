@@ -29,18 +29,17 @@ Sounds familiar? It certainly did for me when I was brainstorming the set of val
 
 We unanimously decided to adopt these two-millennia-old qualities as our team's values and to visualize them, I proposed an image that would become our logo: the [Millau Viaduct][wp_millau_viaduct]---a spectacular bridge designed by sir Norman Foster, built [near the city of Millau in southern France][maps_millau_viaduct].
 
-![Millau Viaduct][img_millau_viaduct]
+<figure>
+<img src="/antique-inspirations-for-software-architects/millau-viaduct.jpg" alt="Millau Viaduct">
+<figcaption>Millau Viaduct by <a href="https://www.flickr.com/photos/flissphil/2892568426">Phillip Capper</a>.</figcaption>
+</figure>
 
 Bridges ideally __embody durability__, some serving the public for centuries, like the [Charles Bridge in Prague, opened in 1402][wp_charles_bridge]. Getting people efficiently and safely across rivers, valleys and canyons is as clear an __illustration of utility__ as we could hope for. And while beauty is in the eye of the beholder, to us __Millau Viaduct truly is beautiful__, with its slender structure suspended over the Tarn valley like a delicate web of strings.
 
 We're using these values to [ask better questions][mb_feed_it_back]. Is it durable? Will this fancy framework you have spotted at some conference be around in two years? Are you sure we need the user to click three times to submit the order? Can we make it easier? Can you read your own code? Can your new team colleague read and understand it? Old lessons that continue to hold true in an age technically so much more sophisticated than when they were put in writing.
 
-[Photo of Millau Viaduct][flickr_millau_viaduct] by Phillip Capper.
-
 *[UI]: User Interface
 
-[flickr_millau_viaduct]: https://www.flickr.com/photos/flissphil/2892568426
-[img_millau_viaduct]: /antique-inspirations-for-software-architects/millau-viaduct.jpg
 [maps_millau_viaduct]: https://goo.gl/maps/t5R2pjBj5Ys
 [mb_agile_approach]: {{< ref "agile-is-the-business-approach-to-software-en/index.md" >}}
 [mb_api]: {{< ref "api-thinking-vs-client-thinking/index.md" >}}
@@ -51,4 +50,3 @@ We're using these values to [ask better questions][mb_feed_it_back]. Is it durab
 [wp_millau_viaduct]: https://en.wikipedia.org/wiki/Millau_Viaduct
 [wp_vitruvius]: https://en.wikipedia.org/wiki/Vitruvius
 [wq_vitruvius]: https://en.wikiquote.org/wiki/Vitruvius#De_architectura_.28The_Ten_Books_On_Architecture.29_.28.7E_15BC.29
-

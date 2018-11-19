@@ -19,7 +19,7 @@ image: /the-state-of-the-craft-at-craftconf-2015/craftconf-stage.jpg
 
 <!--more-->
 
-![CraftConf 2015 Stage][craftconfstage]
+{{< figure src="/the-state-of-the-craft-at-craftconf-2015/craftconf-stage.jpg" alt="CraftConf 2015 Stage" >}}
 
 ## Microservices entering the mainstream
 
@@ -108,7 +108,6 @@ The 2015 CraftConf was only the _second_ edition, but already organized with suc
 [apprenticeshippatterns]: http://chimera.labs.oreilly.com/books/1234000001813/
 [craftconf15]: http://craft-conf.com/2015
 [craftconf]: http://craft-conf.com/
-[craftconfstage]: /the-state-of-the-craft-at-craftconf-2015/craftconf-stage.jpg
 [ghnetflix]: https://github.com/Netflix/
 [mpagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
 [mpapithinking]: {{< ref "api-thinking-vs-client-thinking/index.md" >}}

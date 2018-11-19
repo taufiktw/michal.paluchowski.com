@@ -65,7 +65,10 @@ What you want instead is a business pursuit you can believe in - big or small, l
 
 If you look at [Maslow's pyramid of needs][wpmaslow], the three qualities above align precisely with the top two layers of Esteem and Self-actualization:
 
-{{< figure src="/searching-for-geek-heaven/maslows-hierarchy.png" alt="Maslow's hierarchy of needs" >}}
+<figure>
+    <img src="/searching-for-geek-heaven/maslows-hierarchy.png" alt="Maslow's hierarchy of needs">
+    <figcaption>Maslov's pyramid by <a href="https://en.wikipedia.org/wiki/File:Maslow%27s_hierarchy_of_needs.svg">J. Finkelstein on Wikipedia</a></figcaption>
+</figure>
 
 It goes without saying, that in order for a company to become a Geek Heaven, the bottom layers need already to be catered for. You certainly won't feel any good working at a place, where you may get fired any minute, you're [getting peanuts for your work][mpdevelopercost] or which is physically unsafe.
 
@@ -83,8 +86,6 @@ There's a clear business case for building companies, where geeks are happy.
 
 You're a geek. You're doing a job that's highly in demand these days and will remain so for the nearest future. Use that to your advantage and "[vote with your feet][mpchangesinvestments]" for companies that you truly feel great working for. Find the criteria for what makes your very own Geek Heaven, and if you haven't found it yet, move on.
 
-(Maslov's pyramid image by [J. Finkelstein on Wikipedia][wikimaslovpyramidimg])
-
 [amazondanpinkdrive]: https://www.amazon.com/gp/product/B004P1JDJO/
 [amazonstartwithwhy]: https://www.amazon.com/gp/product/B002Q6XUE4/
 [atlassiancompany]: https://www.atlassian.com/company
@@ -101,5 +102,4 @@ You're a geek. You're doing a job that's highly in demand these days and will re
 [spotifydev]: https://developer.spotify.com/
 [tedsinek]: https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 [thinkfastslow]: https://www.amazon.com/gp/product/B00555X8OA/
-[wikimaslovpyramidimg]: https://en.wikipedia.org/wiki/File:Maslow%27s_hierarchy_of_needs.svg
 [wpmaslow]: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
