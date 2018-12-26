@@ -17,4 +17,4 @@ We all communicate. If you're reading this, then I am communicating a message to
 
 There's no excuse for inefficient communication.
 
-Have you joined your local [Toastmasters](http://www.toastmasters.org/ "Toastmasters International website") chapter already? I know, I know, you don't _do_ public speaking. It's not _your thing_. Don't worry, it's just a form they use. What you will learn goes far beyond presenting and will forever change your life.
+Have you joined your local [Toastmasters](http://www.toastmasters.org/ "Toastmasters International website") chapter already? I know, I know, you don't _do_ public speaking. It's not _your thing_. Don't worry, it's just a form they use. What you will learn goes far beyond presenting and will forever change your life.

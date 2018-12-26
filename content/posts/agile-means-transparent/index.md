@@ -24,4 +24,4 @@ Transparency is not necessarily a feat unique to Agile. It could just as well be
 - the team works jointly with the customer ([Agile Manifesto](http://agilemanifesto.org/ "Manifesto for Agile Software Development")), and
 - we're communicating in a common language - the business language of the customer (User Stories).
 
-Use this as an argument with customers reluctant to try an Agile approach. Make sure they understand that they will have full insight into the project's progress __and__ that they may opt out at any moment, still expecting to receive results in a _potentially releasable_ state.
+Use this as an argument with customers reluctant to try an Agile approach. Make sure they understand that they will have full insight into the project's progress __and__ that they may opt out at any moment, still expecting to receive results in a _potentially releasable_ state.
