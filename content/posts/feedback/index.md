@@ -5,8 +5,37 @@ date: 2019-01-01T20:09:15+0100
 categories:
   - People
 tags:
-  -
-image:
+  - feedback
+  - relationships
+  - self-development
 ---
 
+Feedback, oh, feedback. The holy grail of management, leadership and any self-respecting, self-aware employee or freelancer in pursuit of greatness. Many a book was written on why and how to deliver and how to receive it. But is good feedback always good?
+
 <!--more-->
+
+Let's start with why feedback is so hailed in the first place. What is it good for? The _mastery_ bit in "autonomy, mastery and purpose". We want to be better in what we're doing, and we want others around us to improve. Feedback is the way to triangulate our journey, in these circumstances:
+
+* your environment changed---new team, new boss, new workplace---and you want to fit in. Conversely, you have a new, direct report and you want them to fit in. Feedback will highlight the rough edges, and hopefully motivate to continue improving.
+* you're on a path of learning, or training---acquiring new skills, practicing---and you want to gauge how you're doing. Are you actually getting better? How much?
+* you work with someone with a disruptive habit. Maybe they're too possessive of the keyboard in pair programming, maybe they talk to loud, or perhaps they have bad mouth odour. You want this to stop. Conversely, you're the one with a disruptive habit that's sabotaging your relationship with others, yet you're unaware of it.
+
+A little positive feedback here and there, and people improve their skills, get rid of their quirks and tighten relationships with their colleagues. Wonderful!
+
+Hold on.
+
+The hallmark of getting older and acquiring experience is that you consider the bigger picture whenever making judgments. A young gun will exclaim "feedback's great!", an elder will tell you "it depends".
+
+Chances are, if you've been working for a few years---over a decade, like myself, perhaps---you had many different feedback sessions. I certainly had. I found out people often see me as difficult to convince and sometimes arrogant. Understood. I addressed these issues by being more outspoken about my reasons to think in a certain way---live less in my head, if you will---and by spending more face-to-face time with other people, so that they get to know me better.
+
+But I __can't change my biology__ in any fundamental way. I have a character, like everyone, and I've a body language that comes with that, that will likely soften with years, but I will never be universally likable. I header that same feedback over and over again and hearing it anew, every time I change workplaces, doesn't help me in any way.
+
+Consider organized feedback sessions. Recurring sessions called performance reviews, appraisals, 360s or anything else. These will be often structured. Someone in the organization will have defined performance standards, like agreeability or integrity, and whoever is delivering the feedback is expected to judge the recipient according to those standards.
+
+Suppose one of the standards is that the organization expects people to be proactive in managing customer relationships. You're appraising a colleague, who doesn't talk much with the customer and thus doesn't fulfill the said standard. What do you do? How do you rate them? Maybe they're delivering excellent work otherwise, it's just that they're a bit shy and feel more comfortable letting other team members address the customer. Do you _really_ need them to change? Or can you just embrace them in the bigger team they're part of, and let everyone contribute their best skills?
+
+These two examples show that not all feedback is good, and not always. Here are my ground rules for delivering feedback, the "constructive" type, that come _before_ all the other advice on how to deliver it:
+
+1. Decide if you _really_ want the other person to change something. If you can live with their quirks, that's better for everyone.
+2. Make sure you're the right person to deliver the feedback. If you never worked with me and are going to judge me based on hearsay, I'm not going to respect you.
+3. Make sure they want to hear your feedback. If they didn't ask you explicitly for it, do ask them *first*.
