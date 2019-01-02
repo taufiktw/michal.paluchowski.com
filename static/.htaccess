@@ -8,6 +8,7 @@ Redirect permanent "/rss" "/index.xml"
 Redirect permanent "/atom" "/index.xml"
 RedirectMatch permanent "^/feed/?" "/index.xml"
 RedirectMatch permanent "^/tag/(.*?)/feed/?" "/tag/$1/index.xml"
+RedirectMatch permanent "^/tags/(.*?)/?" "/tag/$1"
 
 RewriteCond %{QUERY_STRING} tag=qualityassurance
 RewriteRule ^ /tag/quality-assurance [R=301,QSD,L]
