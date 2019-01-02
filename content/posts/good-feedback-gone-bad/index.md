@@ -1,6 +1,6 @@
 ---
 author: michal
-title: "Feedback"
+title: "Good feedback gone bad"
 date: 2019-01-01T20:09:15+0100
 categories:
   - People
