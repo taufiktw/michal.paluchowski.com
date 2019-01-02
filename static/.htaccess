@@ -8,17 +8,25 @@ Redirect permanent "/rss" "/index.xml"
 Redirect permanent "/atom" "/index.xml"
 RedirectMatch permanent "^/feed/?" "/index.xml"
 RedirectMatch permanent "^/tag/(.*?)/feed/?" "/tag/$1/index.xml"
+
 RewriteCond %{QUERY_STRING} tag=qualityassurance
 RewriteRule ^ /tag/quality-assurance [R=301,QSD,L]
+
 Redirect permanent "/tag/qualityassurance" "/tag/quality-assurance"
+
 RewriteCond %{QUERY_STRING} tag=personaldevelopment
 RewriteRule ^ /tag/personal-development [R=301,QSD,L]
+
 Redirect permanent "/tag/personaldevelopment" "/tag/personal-development"
+
 RewriteCond %{QUERY_STRING} tag=userexperience
 RewriteRule ^ /tag/user-experience [R=301,QSD,L]
+
 RewriteCond %{QUERY_STRING} tag=(.*) [NC]
 RewriteRule ^ /tag/%1 [R=301,QSD,L]
+
 Redirect permanent "/tag/userexperience" "/tag/user-experience"
+
 RewriteCond %{QUERY_STRING} page=(\d+)
 RewriteRule ^ /page/%1 [R=301,QSD,L]
 
