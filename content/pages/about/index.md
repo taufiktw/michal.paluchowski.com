@@ -1,6 +1,7 @@
 ---
 author: michal
 date: 2017-01-29T11:06:31.000Z
+lastmod: 2019-01-06T20:56:30Z
 title: Hi, I'm Michał
 menu:
   pages:

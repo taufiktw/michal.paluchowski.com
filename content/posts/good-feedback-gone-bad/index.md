@@ -2,6 +2,7 @@
 author: michal
 title: "Good feedback gone bad"
 date: 2019-01-01T20:09:15+0100
+lastmod: 2019-01-06T20:56:43Z
 categories:
   - People
 tags:
