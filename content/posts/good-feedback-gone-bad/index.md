@@ -18,7 +18,7 @@ Let's start with **why feedback is so celebrated** in the first place. What is i
 
 * **your environment changed**---new team, new boss, new workplace---and you want to fit in. Conversely, you have a new, direct report and you want them to fit in. Feedback will highlight the rough edges, and hopefully inspire change towards adjustment.
 * **you're on a path of learning**---acquiring new skills, practicing---and you want to gauge how you're doing. Are you actually getting better? How much?
-* **you work with someone with a disruptive habit**. Maybe they're too possessive of the keyboard in pair programming, maybe they talk to loud, or perhaps they have bad breath. You want this to stop. Conversely, you're the one with a disruptive habit that's sabotaging your relationships with others, yet you're unaware of it.
+* **you work with someone with a disruptive habit**. Maybe they're too possessive of the keyboard in pair programming, maybe they talk too loudly, or perhaps they have bad breath. You want this to stop. Conversely, you're the one with a disruptive habit that's sabotaging your relationships with others, yet you're unaware of it.
 
 A little positive feedback here and there, and people improve their skills, get rid of their quirks and tighten relationships with their colleagues. Wonderful!
 
