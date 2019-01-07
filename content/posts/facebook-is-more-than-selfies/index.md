@@ -12,6 +12,9 @@ tags:
 
 <!--more-->
 
+{{< twitter 1075513588859645952 >}}
+
+- https://www.buzzfeednews.com/article/ryanmac/literally-just-a-big-list-of-facebooks-2018-scandals
 - communication platform
  - cafes with patrons
  - road construction
