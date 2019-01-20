@@ -2,6 +2,7 @@
 author: michal
 title: "I remember"
 date: 2019-01-20T05:41:07Z
+lastmod: 2019-01-20T05:56:15Z
 categories:
   - Technology
 tags:
