@@ -10,9 +10,21 @@ tags:
   - communication
 ---
 
+Should we all just [#DeleteFacebook](https://twitter.com/hashtag/DeleteFacebook)? I mean, [throughout 2018 they demonstrated](https://www.buzzfeednews.com/article/ryanmac/literally-just-a-big-list-of-facebooks-2018-scandals) just how dirty a business they're inside. And honestly, when was the last time you *enjoyed* your timeline? It's going to be hard, though, to replace this massive communication platform for their [2B+ users](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/).
+
 <!--more-->
 
+I like where [@DHH](https://twitter.com/dhh) is going:
+
 {{< twitter 1075513588859645952 >}}
+
+Basecamp has a brand, and for their, mostly technically sophisticated, users, it's alright to skip Facebook as a communication medium. How about the rest of the world, though?
+
+
+
+
+
+
 
 - https://www.buzzfeednews.com/article/ryanmac/literally-just-a-big-list-of-facebooks-2018-scandals
 - communication platform
