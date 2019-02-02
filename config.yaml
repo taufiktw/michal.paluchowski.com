@@ -21,6 +21,8 @@ menu:
   blogs:
     - name: Travel
       url: https://travel.paluchowski.com/
+    - name: Cycling
+      url: https://cycling.paluchowski.com/
   social:
     - name: Twitter
       url: https://twitter.com/mpaluchowski
