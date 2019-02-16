@@ -5,7 +5,8 @@ date: 2019-02-03T06:48:10+01:00
 categories:
   - People
 tags:
-  -
+  - pair programming
+  - communication
 ---
 
 <!--more-->
