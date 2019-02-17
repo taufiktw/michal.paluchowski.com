@@ -5,8 +5,10 @@ date: 2019-02-17T05:38:18Z
 categories:
   - People
 tags:
-  - pair programming
   - communication
+  - pair programming
+  - programming
+  - learning
 ---
 
 If pair programming was easy, and universally better than working individually, we'd all be doing it *all* the time. But we don't. Most people I met need to make a conscious effort to pair and stay paired. All the while saying they "like it" and "need to do more of it". How come?
