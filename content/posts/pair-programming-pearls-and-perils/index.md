@@ -1,7 +1,7 @@
 ---
 author: michal
 title: "Pair programming pearls &\u00A0perils"
-date: 2019-02-17T05:38:18Z
+date: 2019-02-17T15:57:37Z
 categories:
   - People
 tags:
