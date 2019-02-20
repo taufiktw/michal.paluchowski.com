@@ -2,6 +2,7 @@
 author: michal
 title: "Pair programming pearls &\u00A0perils"
 date: 2019-02-17T15:57:37Z
+lastmod: 2019-02-20T20:25:23Z
 categories:
   - People
 tags:
@@ -38,6 +39,8 @@ Finally, [as Linus likes to say][wikipedia-linus-law], "given enough eyeballs, a
 The blessing is also the primary curse, because **in a pair, you can't hide**. Sometimes you need your time alone. Some personal space, perhaps to idly do some busywork, relieve your brain, or to process a particular problem in solitude and silence. That applies especially if you're an introvert and continuous communication drains your energy.
 
 Your partner may have a **different pace of working**. Perhaps they'll take more, or fewer, breaks, setting a rhythm of work that will not be to your comfort. May like to crunch quickly through sections of code that you prefer to contemplate longer. There's a related issue of **differences in temper**, where I personally like to think through solutions and understand available options before I touch the keyboard, while I worked with people who are more "trigger happy" and prefer to try things out and see where it brings them.
+
+Both of you **need to synchronize your schedules**. If you're starting work at 8:30 and your partner at 10:00, then what do you do until they arrive? What will *they* do when you leave early?
 
 Finally, there's the same problem as when walking with someone who knows the way while you do not. Many people will not be able to learn to navigate on their own when following someone's lead. If you're new to the system and pairing with someone who's already familiar with it, there's a good change you'll **take more time to find your way around** than if you were walking working on your own.
 
