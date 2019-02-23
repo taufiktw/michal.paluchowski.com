@@ -7,6 +7,32 @@ permalinks:
   tags: /tag/:slug
   categories: /category/:slug
 languageCode: "en-us"
+DefaultContentLanguage: en
+languages:
+  en:
+    weight: 1
+  de:
+    permalinks:
+      posts: /:filename
+      pages: /:slug
+      tags: /etikett/:slug
+      categories: /kategorie/:slug
+    title: Michałs Bisse
+    params:
+      subtitle: Rezepte für ein Software Unternehmen
+    copyright: Erschaffen in Warschau von Michał Paluchowski. Der ganze Inhalt ist lizenziert unter einer <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Namensnennung 4.0 International Lizenz</a>. Die Schablone ist [Open Source](https://github.com/mpaluchowski/hugo-mpaluchowski-2019), unter der MIT Lizenz.
+    menu:
+      blogs:
+        - name: Reisen
+          url: https://travel.paluchowski.com/
+        - name: Radfahren
+          url: https://cycling.paluchowski.com/
+      social:
+        - name: Twitter
+          url: https://twitter.com/mpaluchowski
+        - name: GitHub
+          url: https://github.com/mpaluchowski
+    weight: 2
 paginate: 10
 googleAnalytics: UA-2971180-9
 title: "Michał's Bites"
