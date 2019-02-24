@@ -19,7 +19,7 @@ languages:
       categories: /kategorie/:slug
     title: Michałs Bisse
     params:
-      subtitle: Rezepte für ein Software Unternehmen
+      subtitle: Rezepte aus dem Software-Geschäft
     copyright: Erschaffen in Warschau von Michał Paluchowski. Der ganze Inhalt ist lizenziert unter einer <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Namensnennung 4.0 International Lizenz</a>. Die Schablone ist [Open Source](https://github.com/mpaluchowski/hugo-mpaluchowski-2019), unter der MIT Lizenz.
     menu:
       blogs:
@@ -38,7 +38,7 @@ googleAnalytics: UA-2971180-9
 title: "Michał's Bites"
 copyright: Made in Warsaw by Michał Paluchowski. All content is under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>. This template is [open source](https://github.com/mpaluchowski/hugo-mpaluchowski-2019), available under the MIT License.
 params:
-  subtitle: Recipes for a software business
+  subtitle: Recipes from the software business
   twitter: mpaluchowski
   logo:
     path: /img/mpaluchowski.jpg
