@@ -5,6 +5,7 @@ title: Starting out with Posterous
 categories:
   - Personal
 short: true
+warning: "Posterous has since been acquired and closed down. The blog outlived the platform, but it's hosted elsewhere now."
 ---
 
 Ten or so may be the number of times I landed on the Posterous home page and "almost" clicked the "register" button. I have a blog already, I have a Twitter account. Why have another? Now I gave in, I'm here.

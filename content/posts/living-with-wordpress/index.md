@@ -7,6 +7,7 @@ categories:
 tags:
   - posterous
 short: true
+warning: "I'm no longer using Wordpress to publish this website and it went through several re-designs."
 ---
 
 [Posterous][posterous] is likely gone by the time you're reading this. [Acquired by Twitter in 2012][tcposteroustwitter], [closed down in the end of April 2013][tcposterousshutdown]. I checked my options and considering:
