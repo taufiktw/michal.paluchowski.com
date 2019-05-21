@@ -1,6 +1,7 @@
 ---
 author: michal
 date: 2010-10-13T09:20:00.000Z
+lastmod: 2019-05-21T18:40:33Z
 title: Starting out with Posterous
 categories:
   - Personal

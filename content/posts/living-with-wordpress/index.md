@@ -1,6 +1,7 @@
 ---
 author: michal
 date: 2013-04-24T18:36:06.000Z
+lastmod: 2019-05-21T18:40:33Z
 title: Living with Wordpress
 categories:
   - Personal
