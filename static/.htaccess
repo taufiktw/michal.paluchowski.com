@@ -1,5 +1,8 @@
 RewriteEngine On
 
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 Redirect permanent "/sitemapindex.xml" "/sitemap.xml"
 Redirect permanent "/sitemap.xml/sitemap.xml" "/sitemap.xml"
 RedirectMatch permanent "^/files/(.*)" "/$1"
