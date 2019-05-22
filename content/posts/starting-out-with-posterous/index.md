@@ -7,7 +7,7 @@ categories:
   - Personal
 tags:
   - posterous
-  - writing
+  - blogging
 short: true
 warning: "Posterous has since been acquired and closed down. The blog outlived the platform, but it's hosted elsewhere now."
 ---

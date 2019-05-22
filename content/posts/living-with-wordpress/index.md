@@ -7,6 +7,8 @@ categories:
   - Personal
 tags:
   - posterous
+  - blogging
+  - wordpress
 short: true
 warning: "I'm no longer using Wordpress to publish this website and it went through several re-designs."
 ---

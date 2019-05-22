@@ -7,9 +7,8 @@ categories:
 tags:
   - career
   - corporations
-  - cost
   - minimalism
-  - vagabonding
+  - price of success
 image: /a-corporate-career-may-take-you-places/moving-truck.jpg
 ---
 

@@ -19,7 +19,7 @@ short: true
 - which are yet to be completed,
 - are we on schedule?
 
-Transparency is not necessarily a feat unique to Agile. It could just as well be used with any other project management approach. In this case, however, it's natural and pretty much effortless, because:
+Transparency is not necessarily a feature unique to Agile. It could just as well be used with any other project management approach. In this case, however, it's natural and pretty much effortless, because:
 
 - the team works jointly with the customer ([Agile Manifesto](http://agilemanifesto.org/ "Manifesto for Agile Software Development")), and
 - we're communicating in a common language - the business language of the customer (User Stories).
