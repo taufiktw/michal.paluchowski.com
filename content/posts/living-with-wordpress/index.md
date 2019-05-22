@@ -26,10 +26,10 @@ If you find anything broken, please be so kind and [let me know][twittermpalucho
 Later I will likely take some time to design my own theme - simple, minimalist, content first. For the moment enjoy the visually excellent design by [SiteOrigin][siteorigin].
 
 [posterous]: http://posterous.com
-[tcposteroustwitter]: http://techcrunch.com/2012/03/12/posterous-finds-a-home-in-the-arms-of-twitter/
-[tcposterousshutdown]: http://techcrunch.com/2013/02/15/posterous-will-shut-down-on-april-30th-co-founder-garry-tan-launches-posthaven-to-save-your-sites/
-[twittermpaluchowski]: http://twitter.com/mpaluchowski
-[siteorigin]: http://siteorigin.com/
+[tcposteroustwitter]: https://techcrunch.com/2012/03/12/posterous-finds-a-home-in-the-arms-of-twitter/
+[tcposterousshutdown]: https://techcrunch.com/2013/02/15/posterous-will-shut-down-on-april-30th-co-founder-garry-tan-launches-posthaven-to-save-your-sites/
+[twittermpaluchowski]: https://twitter.com/mpaluchowski
+[siteorigin]: https://siteorigin.com/
 
 *[URLs]: Uniform Resource Locator
 *[SEO]: Search Engine Optimization
