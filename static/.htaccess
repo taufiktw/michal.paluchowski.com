@@ -15,21 +15,18 @@ RedirectMatch permanent "^/tags/(.*)" "/tag/$1"
 
 RewriteCond %{QUERY_STRING} tag=qualityassurance
 RewriteRule ^ /tag/quality-assurance [R=301,QSD,L]
-
 Redirect permanent "/tag/qualityassurance" "/tag/quality-assurance"
 
 RewriteCond %{QUERY_STRING} tag=personaldevelopment
 RewriteRule ^ /tag/personal-development [R=301,QSD,L]
-
 Redirect permanent "/tag/personaldevelopment" "/tag/personal-development"
 
 RewriteCond %{QUERY_STRING} tag=userexperience
 RewriteRule ^ /tag/user-experience [R=301,QSD,L]
+Redirect permanent "/tag/userexperience" "/tag/user-experience"
 
 RewriteCond %{QUERY_STRING} tag=(.*) [NC]
 RewriteRule ^ /tag/%1 [R=301,QSD,L]
-
-Redirect permanent "/tag/userexperience" "/tag/user-experience"
 
 RewriteCond %{QUERY_STRING} page=(\d+)
 RewriteRule ^ /page/%1 [R=301,QSD,L]
