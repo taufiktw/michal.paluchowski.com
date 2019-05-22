@@ -80,13 +80,13 @@ It's all cheating. Bending, stretching the material we are working with - comput
 
 {{< youtube nKIu9yen5nc >}}
 
-[wppointer]: http://en.wikipedia.org/wiki/Pointer_(computer_programming)
-[wpheuristics]: http://en.wikipedia.org/wiki/Heuristics
-[wplazyloading]: http://en.wikipedia.org/wiki/Lazy_loading
+[wppointer]: https://en.wikipedia.org/wiki/Pointer_(computer_programming)
+[wpheuristics]: https://en.wikipedia.org/wiki/Heuristics
+[wplazyloading]: https://en.wikipedia.org/wiki/Lazy_loading
 [mapscrosswarsaw]: https://www.google.pl/maps/dir/Marymont/Ursyn%C3%B3w,+Warsaw/@52.1955721,20.969994,12z/data=!4m14!4m13!1m5!1m1!1s0x471ecbb9e1556c1f:0x63c3d449c86a8300!2m2!1d20.95!2d52.26!1m5!1m1!1s0x47192d87247dae6b:0x84e20824775dbf76!2m2!1d21.0291229!2d52.1378544!5i2
 [mbdevelopercost]: {{< ref "how-much-does-a-good-developer-cost/index.md" >}}
 [fbmarekcomment]: https://www.facebook.com/michalpaluchowski/posts/4319571882936?comment_id=4320339102116&offset=0&total_comments=1
-[wpraytracing]: http://en.wikipedia.org/wiki/Ray_tracing_(graphics)
+[wpraytracing]: https://en.wikipedia.org/wiki/Ray_tracing_(graphics)
 
 *[GPS]: Global Positioning System
 
