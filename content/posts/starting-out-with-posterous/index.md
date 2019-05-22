@@ -5,6 +5,9 @@ lastmod: 2019-05-21T18:40:33Z
 title: Starting out with Posterous
 categories:
   - Personal
+tags:
+  - posterous
+  - writing
 short: true
 warning: "Posterous has since been acquired and closed down. The blog outlived the platform, but it's hosted elsewhere now."
 ---
