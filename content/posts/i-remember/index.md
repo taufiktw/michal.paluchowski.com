@@ -10,7 +10,7 @@ tags:
   - web
 ---
 
-In 2019 I'm "celebrating" twenty years since I published my first website. It was ugly, it was heavy and it was built completely wit [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage). Building for the web was different, very different back then, from what it is today. Our tools were young, our computers low on power and our connections slow and unreliable.
+In 2019 I'm "celebrating" twenty years since I published my first website. It was ugly, it was heavy and it was built completely with [Microsoft FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage). Building for the web was different, very different back then, from what it is today. Our tools were young, our computers low on power and our connections slow and unreliable.
 
 <!--more-->
 
