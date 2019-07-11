@@ -10,6 +10,8 @@ tags:
 image:
 ---
 
+
+
 <!--more-->
 
 I see computers---software, really, because hardware stopped being important back in the 80s---undergo three stages of evolution:
@@ -20,7 +22,7 @@ I see computers---software, really, because hardware stopped being important bac
 
 Remember when the term "computer" meant "person doing computations"? Neither do I, because the last time this meaning applied was somewhere in the 1950s. "Computer Rooms" were places filled with people, sometimes using mechanical calculators, doing various mathematical operations.
 
-[photo from computer room https://en.wikipedia.org/wiki/Human_computer]
+{{< figure src="computer-room.jpg" title="Human computers in the NACA High Speed Flight Station \"Computer Room\"" >}}
 
 The first computers meant to replace all these people with machines that would reliably, repeatedly provide the same computing services, delivering results increasingly faster. Digital data storage also is way more efficient, both in terms of space used and access speed.
 
