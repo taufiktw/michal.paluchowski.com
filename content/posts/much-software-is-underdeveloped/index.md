@@ -11,7 +11,7 @@ tags:
   - product owner
 ---
 
-
+Software can do so much more than it does today, with mature programming languages, standard instructions and not a *hint* of deep learning. Just plain, old, "shallow" business logic, thoughtfully implemented, relying on existing data. And it's up to us, developers, to champion these improvements.
 
 <!--more-->
 
