@@ -9,7 +9,6 @@ tags:
   - human computers
   - software design
   - product owner
-image:
 ---
 
 
