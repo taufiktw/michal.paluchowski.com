@@ -6,6 +6,10 @@ categories:
   - Technology
 tags:
   - operating systems
+  - directories
+  - data
+  - documents
+  - productivity
 image:
 ---
 
