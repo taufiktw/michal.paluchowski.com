@@ -1,7 +1,7 @@
 ---
 author: michal
 title: "Home directory scourge"
-date: 2019-09-06T12:51:24Z
+date: 2019-09-09T13:39:14Z
 categories:
   - Technology
 tags:
