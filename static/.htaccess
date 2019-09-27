@@ -13,6 +13,9 @@ RedirectMatch permanent "^/feed/?$" "/index.xml"
 RedirectMatch permanent "^/tag/(.*?)/feed/?$" "/tag/$1/index.xml"
 RedirectMatch permanent "^/tags/(.*)" "/tag/$1"
 
+Redirect permanent "/2014/03/mpaluchowski.jpg" "/img/mpaluchowski.jpg"
+Redirect permanent "/wp-content/uploads/sites/2/2014/03/mpaluchowski.jpg" "/img/mpaluchowski.jpg"
+
 RewriteCond %{QUERY_STRING} tag=qualityassurance
 RewriteRule ^ /tag/quality-assurance [R=301,QSD,L]
 Redirect permanent "/tag/qualityassurance" "/tag/quality-assurance"
