@@ -17,10 +17,10 @@ short: true
 
 CRAP is a term I picked up from [Richard St. John's excellent TED Talk](http://www.ted.com/talks/lang/eng/richard_st_john_s_8_secrets_of_success.html "TED Talk: Richard St. John's 8 secrets of success") on secrets of success. It stands for:
 
-- __C__riticism,
-- __R__ejection,
-- __A__ssholes, and
-- __P__ressure.
+- **C**riticism,
+- **R**ejection,
+- **A**ssholes, and
+- **P**ressure.
 
 It's just the price that you pay for succeeding. For being somewhere regular people can't reach. It's like the entrance fee to Disneyland and money you pay for the rides. Accept it, pay and head for the fun stuff.
 
