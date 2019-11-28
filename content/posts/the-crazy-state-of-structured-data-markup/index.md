@@ -43,8 +43,8 @@ Since I'm using [WordPress]({{< ref "living-with-wordpress/index.md" >}}), some 
 I complied, included the missing markup, and the code became:
 
 ```html
-<article class="h-entry" itemscope…
-  <h1 class="p-name" itemprop=...
+<article class="h-entry" itemscope="...">
+  <h1 class="p-name" itemprop="...">
 ```
 
 There's *still* more. Facebook developed its [OpenGraph](https://developers.facebook.com/docs/opengraph/), and Twitter has their [Cards](https://dev.twitter.com/cards), all of which - with some extra markup - allow me to control and improve the way content will appear in the services' respective timelines. Otherwise Facebook may display a random snippet of text with a link, starting with something as "meaningful" as "Comments closed".
