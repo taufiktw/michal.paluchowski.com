@@ -36,7 +36,7 @@ It's *consistent*. Most entities will have a way to markup `name`, `url` or `des
 
 But wait, there's more.
 
-Since I'm using [WordPress]({{< ref "living-with-wordpress/index.md" >}}), some of its widgets output markup of the [microformats](http://microformats.org/) brand. These serve a similar purpose as Schema.org, but with a much smaller dictionary of entities. Little did I know that Google scanned it too and started complaining via Webmaster Tools that my implementation was incorrect:
+Since I'm using [WordPress]({{< ref"posts/living-with-wordpress/index.md" >}}), some of its widgets output markup of the [microformats](http://microformats.org/) brand. These serve a similar purpose as Schema.org, but with a much smaller dictionary of entities. Little did I know that Google scanned it too and started complaining via Webmaster Tools that my implementation was incorrect:
 
 {{< figure src="/the-crazy-state-of-structured-data-markup/webmaster-tools-microformats-error.png" alt="Google Webmaster Tools Microformats Error" title="Google Webmaster Tools Microformats Error" >}}
 

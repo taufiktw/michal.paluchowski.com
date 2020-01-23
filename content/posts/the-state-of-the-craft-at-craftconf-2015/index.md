@@ -109,13 +109,13 @@ The 2015 CraftConf was only the _second_ edition, but already organized with suc
 [craftconf15]: http://craft-conf.com/2015
 [craftconf]: http://craft-conf.com/
 [ghnetflix]: https://github.com/Netflix/
-[mpagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
-[mpapithinking]: {{< ref "api-thinking-vs-client-thinking/index.md" >}}
-[mpdecisions]: {{< ref "deciding-to-decide-when-the-time-is-right/index.md" >}}
-[mpenoughlogging]: {{< ref "just-enough-logging/index.md" >}}
-[mpsocrates]: {{< ref "the-unconference-experience-of-socrates-2014/index.md" >}}
-[mptellmewhattodo]: {{< ref "dont-tell-me-what-to-do/index.md" >}}
-[mptransparent]: {{< ref "agile-means-transparent/index.md" >}}
+[mpagile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
+[mpapithinking]: {{< ref"posts/api-thinking-vs-client-thinking/index.md" >}}
+[mpdecisions]: {{< ref"posts/deciding-to-decide-when-the-time-is-right/index.md" >}}
+[mpenoughlogging]: {{< ref"posts/just-enough-logging/index.md" >}}
+[mpsocrates]: {{< ref"posts/the-unconference-experience-of-socrates-2014/index.md" >}}
+[mptellmewhattodo]: {{< ref"posts/dont-tell-me-what-to-do/index.md" >}}
+[mptransparent]: {{< ref"posts/agile-means-transparent/index.md" >}}
 [stackoverflow]: http://stackoverflow.com/
 [twade_oshineye]: https://twitter.com/ade_oshineye
 [twc089]: https://twitter.com/c089

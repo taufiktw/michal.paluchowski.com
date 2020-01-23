@@ -56,10 +56,10 @@ A radical, efficient way of cleansing your belongings comes from [Paul Klipp][pa
 
 A conscious decision and a light lifestyle. Certainly not for everyone, but if you think it's for you, start practicing _today_. Talk to your spouse---that might be the toughest step, but providing you chose a life companion who shares your values, you should be fine. Review and purge your household of things you don't use. Then do what you're already doing---__deliver excellent work__, __stay connected__ to a network of resourceful people and look out for your opportunity.
 
-[mpbigchanges]: {{< ref "big-changes-are-long-term-investments/index.md" >}}
-[mpdeciding]: {{< ref "deciding-to-decide-when-the-time-is-right/index.md" >}}
-[mpgeekheaven]: {{< ref "searching-for-geek-heaven/index.md" >}}
-[mpstartups]: {{< ref "i-dont-want-to-be-in-a-startup/index.md" >}}
+[mpbigchanges]: {{< ref"posts/big-changes-are-long-term-investments/index.md" >}}
+[mpdeciding]: {{< ref"posts/deciding-to-decide-when-the-time-is-right/index.md" >}}
+[mpgeekheaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
+[mpstartups]: {{< ref"posts/i-dont-want-to-be-in-a-startup/index.md" >}}
 [paulklipp]: http://paulklipp.com/
 [pklippstuff]: http://paulklipp.com/blog/stuff/
 [thmbiz]: http://www.thmbiz.co.uk/About+Us.php

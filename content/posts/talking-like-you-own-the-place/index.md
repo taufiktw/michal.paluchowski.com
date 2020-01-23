@@ -32,6 +32,6 @@ The equivalents for a company would be:
 The moment I catch myself saying "the company I work for" will be my trigger to make major changes. Either [in employment][mbsearchgeekheaven] _or_ [in attitude][mbdontneedpermission].
 
 [linkedin-mpaluchowski]: https://www.linkedin.com/in/michalpaluchowski
-[mbdontneedpermission]: {{< ref "you-dont-need-permission-you-need-to-act/index.md" >}}
-[mbsearchgeekheaven]: {{< ref "searching-for-geek-heaven/index.md" >}}
+[mbdontneedpermission]: {{< ref"posts/you-dont-need-permission-you-need-to-act/index.md" >}}
+[mbsearchgeekheaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
 [stepstone]: https://www.stepstone.com/

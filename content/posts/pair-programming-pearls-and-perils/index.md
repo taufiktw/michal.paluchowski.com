@@ -54,5 +54,5 @@ By all means, try it out if you haven't yet. [Don't ask your boss for permission
 
 
 [amazon-powers-of-two]: https://www.amazon.com/Powers-Two-Relationships-Drive-Creativity-ebook/dp/B00E9FYT0O/
-[mb-dont-need-permission]: {{< ref "you-dont-need-permission-you-need-to-act/index.md" >}} "You don't need permission, you need to act"
+[mb-dont-need-permission]: {{< ref"posts/you-dont-need-permission-you-need-to-act/index.md" >}} "You don't need permission, you need to act"
 [wikipedia-linus-law]: https://en.wikipedia.org/wiki/Linus%27s_Law

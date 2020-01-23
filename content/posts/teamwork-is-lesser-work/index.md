@@ -72,6 +72,6 @@ I look back at [some thinking I did years ago on teams][mp-team-never-was] and r
 [fall2016-d95conf-team]: http://fall2016.d95conf.org/contact
 [fall2016-d95conf]: http://fall2016.d95conf.org/
 [ironman-jan-frodeno]: https://www.triathlete.com/2016/10/features/2016-kona-winners-gallery-jan-frodeno_294887
-[mp-team-never-was]: {{< ref "a-team-that-never-was/index.md" >}}
-[mp-what-mean-agile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
+[mp-team-never-was]: {{< ref"posts/a-team-that-never-was/index.md" >}}
+[mp-what-mean-agile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
 [toastmasters-poland]: https://toastmasters.pl/en/

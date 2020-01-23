@@ -25,9 +25,9 @@ A little positive feedback here and there, and people improve their skills, get 
 
 Hold on.
 
-The hallmark of getting older and acquiring experience is that you consider the bigger picture whenever making judgments. [A young gun will exclaim "feedback's great!"]({{< ref "feed-it-back/index.md" >}}), an elder will tell you "it depends".
+The hallmark of getting older and acquiring experience is that you consider the bigger picture whenever making judgments. [A young gun will exclaim "feedback's great!"]({{< ref"posts/feed-it-back/index.md" >}}), an elder will tell you "it depends".
 
-Chances are, if you've been working for a few years---say, over a decade, like myself---you had many different feedback sessions. [I certainly had.]({{< ref "too-long-in-one-job/index.md" >}}) I found out people often see me as difficult to convince and sometimes arrogant. Understood. I addressed these issues by being more outspoken about my reasons to think in a certain way---live less in my head, if you will---and by spending more face-to-face time with others, so that they get to know me better.
+Chances are, if you've been working for a few years---say, over a decade, like myself---you had many different feedback sessions. [I certainly had.]({{< ref"posts/too-long-in-one-job/index.md" >}}) I found out people often see me as difficult to convince and sometimes arrogant. Understood. I addressed these issues by being more outspoken about my reasons to think in a certain way---live less in my head, if you will---and by spending more face-to-face time with others, so that they get to know me better.
 
 But __I can't change my biology__ in any fundamental way. I have a character, like everyone, and I've a body language that comes with that. Both will soften with the years, but I will never be universally likable.
 

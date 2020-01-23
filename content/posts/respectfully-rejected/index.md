@@ -61,7 +61,7 @@ People remember. Negative experiences remain in memory much sharper than positiv
 [fogcreek]: http://www.fogcreek.com/
 [jkrowlingrejected]: http://www.jkrowling.com/en_GB/#/timeline/bloomsbury-publishing/
 [pagebrinhistory]: http://interviewsummary.com/2012/11/02/larry-page-and-sergei-brin-of-google/
-[mpgeekheaven]: {{< ref "searching-for-geek-heaven/index.md" >}}
-[mptalkabout]: {{< ref "not-everyone-knows-what-theyre-talking-about/index.md" >}}
-[mphowhardhit]: {{< ref "its-not-how-hard-you-can-hit/index.md" >}}
-[mpfeeditback]: {{< ref "feed-it-back/index.md" >}}
+[mpgeekheaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
+[mptalkabout]: {{< ref"posts/not-everyone-knows-what-theyre-talking-about/index.md" >}}
+[mphowhardhit]: {{< ref"posts/its-not-how-hard-you-can-hit/index.md" >}}
+[mpfeeditback]: {{< ref"posts/feed-it-back/index.md" >}}

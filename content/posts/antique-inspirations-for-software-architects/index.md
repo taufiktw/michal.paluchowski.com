@@ -41,10 +41,10 @@ We're using these values to [ask better questions][mb_feed_it_back]. Is it durab
 *[UI]: User Interface
 
 [maps_millau_viaduct]: https://goo.gl/maps/t5R2pjBj5Ys
-[mb_agile_approach]: {{< ref "agile-is-the-business-approach-to-software-en/index.md" >}}
-[mb_api]: {{< ref "api-thinking-vs-client-thinking/index.md" >}}
-[mb_feed_it_back]: {{< ref "feed-it-back/index.md" >}}
-[mb_trusting_software]: {{< ref "trusting-software/index.md" >}}
+[mb_agile_approach]: {{< ref"posts/agile-is-the-business-approach-to-software-en/index.md" >}}
+[mb_api]: {{< ref"posts/api-thinking-vs-client-thinking/index.md" >}}
+[mb_feed_it_back]: {{< ref"posts/feed-it-back/index.md" >}}
+[mb_trusting_software]: {{< ref"posts/trusting-software/index.md" >}}
 [wp_charles_bridge]: https://en.wikipedia.org/wiki/Charles_Bridge
 [wp_de_architectura]: https://en.wikipedia.org/wiki/De_architectura
 [wp_millau_viaduct]: https://en.wikipedia.org/wiki/Millau_Viaduct

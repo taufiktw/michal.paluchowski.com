@@ -53,7 +53,7 @@ Everyone involved in producing a piece of software plays on the __same team__. T
 
 There is no space for complaining about incompetent customers, lazy programmers, stupid managers and those a**holes that are "_too stupid to get it_." Every person is probably pretty smart and reasonable, or else she wouldn't have her job in the first place. Communication issues must be distinguished from emotionally charged judgments.
 
-Agile teams keep their customers close. Perhaps not "on" the team and in the office daily, but [staying in touch often]({{< ref "outsourcing-sales-is-bad-for-business/index.md" >}}), asking questions, clarifying issues as they pop up, and regularly demonstrating progress.
+Agile teams keep their customers close. Perhaps not "on" the team and in the office daily, but [staying in touch often]({{< ref"posts/outsourcing-sales-is-bad-for-business/index.md" >}}), asking questions, clarifying issues as they pop up, and regularly demonstrating progress.
 
 Contracts are created merely to protect their signees. When projects work well, everyone may as well forget that they exist.
 
@@ -61,7 +61,7 @@ Contracts are created merely to protect their signees. When projects work well, 
 
 "_Another layout change? They've got to be kidding._" is the attitude most programmers present towards modification in project scope. "Why can't they make up their minds?" I already argued that that is not possible. Everything about a project may change at any moment, because the reality around us changes and because our minds change once we face reality. Accept it, embrace it.
 
-A plan is still necessary so that everyone knows where the project's heading and can make [credible commitments]({{< ref "agile-means-transparent/index.md" >}}) about it. Therefore, in the words of general Eisenhower "plans are nothing; planning is everything."
+A plan is still necessary so that everyone knows where the project's heading and can make [credible commitments]({{< ref"posts/agile-means-transparent/index.md" >}}) about it. Therefore, in the words of general Eisenhower "plans are nothing; planning is everything."
 
 Agile teams keep their plans light and flexible, so that adjustments don't require hours of fixing dependencies (I'm looking at you, Microsoft Project). Changes are expected to pop up until the last minutes of the schedule, so everyone treats them as regular, daily business.
 

@@ -10,7 +10,7 @@ tags:
   - usability
 ---
 
-First name, last name, e-mail, telephone, organization, position, marital status, weight, height, size of underpants? How much really do you need to know about your customers when they contact you? A lot, of course. The more you know the better you can understand and serve them. You need to be in [constant contact with your customers]({{< ref "outsourcing-sales-is-bad-for-business/index.md" >}} "Article: Outsourcing sales is bad for business") to keep checking on their changing situation and collect feedback on your actions. But what will all this information be worth if your customer doesn't contact you at all in the first place? No contact, no contract.
+First name, last name, e-mail, telephone, organization, position, marital status, weight, height, size of underpants? How much really do you need to know about your customers when they contact you? A lot, of course. The more you know the better you can understand and serve them. You need to be in [constant contact with your customers]({{< ref"posts/outsourcing-sales-is-bad-for-business/index.md" >}} "Article: Outsourcing sales is bad for business") to keep checking on their changing situation and collect feedback on your actions. But what will all this information be worth if your customer doesn't contact you at all in the first place? No contact, no contract.
 
 <!--more-->
 

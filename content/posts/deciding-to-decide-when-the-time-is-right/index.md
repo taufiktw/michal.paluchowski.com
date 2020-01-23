@@ -84,10 +84,10 @@ Keep asking yourself whether you have enough data and work to verify whether wha
 [agilespike]: http://agileatlas.org/articles/item/spikes-in-scrum-the-exception-not-the-rule
 [ampowellworkedorme]: https://www.amazon.com/gp/product/B006IE2F3W/
 [amsherlockholmes]: https://www.amazon.com/gp/product/B0082S3FA4/
-[mpdeelopercost]: {{< ref "how-much-does-a-good-developer-cost/index.md" >}}
-[mpsolomonwrong]: {{< ref "solomon-was-wrong/index.md" >}}
-[mptimeboxing]: {{< ref "time-in-a-box/index.md" >}}
-[mpwhatmeansagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
+[mpdeelopercost]: {{< ref"posts/how-much-does-a-good-developer-cost/index.md" >}}
+[mpsolomonwrong]: {{< ref"posts/solomon-was-wrong/index.md" >}}
+[mptimeboxing]: {{< ref"posts/time-in-a-box/index.md" >}}
+[mpwhatmeansagile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
 [oxddecision]: https://en.oxforddictionaries.com/definition/decision
 [programmingmotherfucker]: http://programming-motherfucker.com/
 [wpchiefsofstaff]: https://en.wikipedia.org/wiki/Chairman_of_the_Joint_Chiefs_of_Staff

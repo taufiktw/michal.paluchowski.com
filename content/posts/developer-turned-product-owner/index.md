@@ -53,7 +53,7 @@ Obviously __not every developer would make a good product owner__. There's a lot
 *[TDD]: Test-Driven Development
 *[KPIs]: Key Performance Indicators
 
-[mp_knows_talking_about]: {{< ref "not-everyone-knows-what-theyre-talking-about/index.md" >}}
-[mp_mean_agile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
+[mp_knows_talking_about]: {{< ref"posts/not-everyone-knows-what-theyre-talking-about/index.md" >}}
+[mp_mean_agile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
 [wp_ddd]: https://en.wikipedia.org/wiki/Domain-driven_design
 

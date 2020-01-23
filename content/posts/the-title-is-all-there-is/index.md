@@ -12,7 +12,7 @@ tags:
 short: true
 ---
 
-I was invited once to [speak]({{< ref "if-you-dont-appear-you-disappear/index.md" >}}) at a [Toastmasters]({{< ref "we-should-all-be-toastmasters/index.md" >}}) Leadership Institute, about the Leadership Track of the organization's educational program. I crafted a short title:
+I was invited once to [speak]({{< ref"posts/if-you-dont-appear-you-disappear/index.md" >}}) at a [Toastmasters]({{< ref"posts/we-should-all-be-toastmasters/index.md" >}}) Leadership Institute, about the Leadership Track of the organization's educational program. I crafted a short title:
 
 <!--more-->
 

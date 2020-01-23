@@ -34,8 +34,8 @@ I remember once watching a documentary on Navy Seals training. Whenever a team o
 
 There are no logs to carry in white collar companies, but there are just as many conflicts. And people need to learn to handle them as grown-ups. It's a powerful lesson I learned from [Tribal Leadership][amtriballeadership] and still often fail to implement in my daily work.
 
-[mpqafromvenus]: {{< ref "developers-are-from-mars-qa-are-from-venus/index.md" >}} "Developers are from Mars, QA are from Venus"
-[mpdontneedpermission]: {{< ref "you-dont-need-permission-you-need-to-act/index.md" >}} "You don't need permission, you need to act"
+[mpqafromvenus]: {{< ref"posts/developers-are-from-mars-qa-are-from-venus/index.md" >}} "Developers are from Mars, QA are from Venus"
+[mpdontneedpermission]: {{< ref"posts/you-dont-need-permission-you-need-to-act/index.md" >}} "You don't need permission, you need to act"
 [amtriballeadership]: https://www.amazon.com/gp/product/B0012GTZFC/
 [tedpowell]: http://www.ted.com/talks/colin_powell_kids_need_structure.html
-[mpteamneverwas]: {{< ref "a-team-that-never-was/index.md" >}} "A team that never was"
+[mpteamneverwas]: {{< ref"posts/a-team-that-never-was/index.md" >}} "A team that never was"

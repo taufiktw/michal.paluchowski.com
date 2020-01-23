@@ -60,7 +60,7 @@ __Unconferences are great because of the people who attend them__. Competent and
 For the future I will likely stick to more traditional conference formats, with curated agendas. SoCraTes 2014 was a very well organized event and for anyone who feels comfortable with the format, the upcoming editions will be thoroughly enjoyable.
 
 [ghfeatherweight]: https://github.com/mpaluchowski/featherweight
-[mpwhatcomesup]: {{< ref "what-goes-up-must-come-down/index.md" >}}
+[mpwhatcomesup]: {{< ref"posts/what-goes-up-must-come-down/index.md" >}}
 [socrates]: http://www.socrates-conference.de/
 [softwarecraftmanifesto]: http://manifesto.softwarecraftsmanship.org/
 [tedzimbardotime]: http://www.ted.com/talks/philip_zimbardo_prescribes_a_healthy_take_on_time

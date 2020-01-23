@@ -68,8 +68,8 @@ Building a good API requires following guidelines, which are not the ones usuall
 If the API is done right, it's an investment that pays back many times the effort put into it. The multitude of clients that can use it, the flexibility to rapidly build features that weren't previously thought of. For any regular [software company][mpgeekheaven] it's possibly _the_ most complex task it will handle and you should put your best, brightest people on it. And make sure they __spark conflicts with all the developers building clients__, because that means they're __having real conversations__ about how to build the best solution for everyone.
 
 [javacollections]: https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html
-[mpgeekheaven]: {{< ref "searching-for-geek-heaven/index.md" >}}
-[mpteamneverwas]: {{< ref "a-team-that-never-was/index.md" >}}
+[mpgeekheaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
+[mpteamneverwas]: {{< ref"posts/a-team-that-never-was/index.md" >}}
 [trelloapiie9]: http://blog.fogcreek.com/project-asteroid-gracefully-dropping-support-for-dinosaur-browsers-in-trello/
 [twittercontrol]: https://blog.twitter.com/2012/delivering-consistent-twitter-experience
 [twitterjoshuabloch]: https://twitter.com/joshbloch

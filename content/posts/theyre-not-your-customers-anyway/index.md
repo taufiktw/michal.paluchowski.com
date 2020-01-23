@@ -38,8 +38,8 @@ Think beyond the app, where you [already sunk the cost of development][mptimeina
 
 __Focus on your customers__ - those who _do_ pay, because they value how your work saved them some of theirs. Build relationships with them, see that the app [continues to adapt to meet their needs][mpagilebusiness], and don't waste emotions on those who never were your customers in the first place.
 
-[mpagilebusiness]: {{< ref "agile-is-the-business-approach-to-software-en/index.md" >}}
-[mptimeinabox]: {{< ref "time-in-a-box/index.md" >}}
+[mpagilebusiness]: {{< ref"posts/agile-is-the-business-approach-to-software-en/index.md" >}}
+[mptimeinabox]: {{< ref"posts/time-in-a-box/index.md" >}}
 [tedlessonsfashion]: https://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture
 [tedxusc]: http://www.ted.com/tedx/events/3558
 [tomfordreadytoshare]: https://www.youtube.com/watch?v=lCzVcgwheWk

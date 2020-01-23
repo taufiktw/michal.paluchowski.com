@@ -95,19 +95,19 @@ What we - users see as fun gadgets, others see as aides in the everlasting strug
 Personally, perhaps my single biggest take-away from the twelve months of wearing Jawbone UP is becoming much more health-aware, which led to attending gym regularly, better diet and visible improvements to both my fitness, and my looks. It's been a _very good_ year.
 
 [amazondesignbehavior]: https://www.amazon.com/gp/product/1449367623/
-[betaheretostay]: {{< ref "beta-is-here-to-stay/index.md" >}}
+[betaheretostay]: {{< ref "posts/beta-is-here-to-stay/index.md" >}}
 [eupraise]: http://europa.eu/rapid/press-release_IP-14-394_en.htm?locale=en
 [faznikefiring]: https://www.cnet.com/news/nike-fires-fuelband-engineers-will-stop-making-wearable-hardware/
-[feeditback]: {{< ref "feed-it-back/index.md" >}}
+[feeditback]: {{< ref"posts/feed-it-back/index.md" >}}
 [forbesdataprocessing]: https://www.forbes.com/sites/parmyolson/2014/04/17/the-quantified-other-nest-and-fitbit-chase-a-lucrative-side-business/
 [guardianabandon]: https://www.theguardian.com/technology/2014/apr/01/wearables-consumers-abandoning-devices-galaxy-gear
 [jawboneup]: http://jawbone.com/up
 [karjreview]: http://www.ideasonideas.com/2013/02/are-wearables-the-change-we-need/
-[lovemyiron]: {{< ref "i-love-my-iron/index.md" >}}
-[mpwhatgoesup]: {{< ref "what-goes-up-must-come-down/index.md" >}}
+[lovemyiron]: {{< ref"posts/i-love-my-iron/index.md" >}}
+[mpwhatgoesup]: {{< ref"posts/what-goes-up-must-come-down/index.md" >}}
 [philipswakeup]: https://www.amazon.com/gp/product/B0093162RM/
 [recodehardwardehard]: https://www.vox.com/2014/4/19/11625818/hardware-is-very-hard-why-wearables-arent-working-yet
-[trustingsoftware]: {{< ref "trusting-software/index.md" >}}
+[trustingsoftware]: {{< ref"posts/trusting-software/index.md" >}}
 [twitterneeliekroes]: https://twitter.com/NeelieKroesEU
 [wpquantifiedself]: https://en.wikipedia.org/wiki/Quantified_Self
 

@@ -94,10 +94,10 @@ You're a geek. You're doing a job that's highly in demand these days and will re
 [gatesmalaria]: https://www.gatesfoundation.org/What-We-Do/Global-Health/Malaria
 [githubabout]: https://github.com/about
 [googleabout]: https://www.google.com/intl/en/about/company/philosophy/
-[mpchangesinvestments]: {{< ref "big-changes-are-long-term-investments/index.md" >}}
-[mpdevelopercost]: {{< ref "how-much-does-a-good-developer-cost/index.md" >}}
-[mppersonnotresource]: {{< ref "a-person-is-not-a-resource/index.md" >}}
-[mpwhatmeansagile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
+[mpchangesinvestments]: {{< ref"posts/big-changes-are-long-term-investments/index.md" >}}
+[mpdevelopercost]: {{< ref"posts/how-much-does-a-good-developer-cost/index.md" >}}
+[mppersonnotresource]: {{< ref"posts/a-person-is-not-a-resource/index.md" >}}
+[mpwhatmeansagile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
 [netflixblog]: http://techblog.netflix.com/
 [spotifydev]: https://developer.spotify.com/
 [tedsinek]: https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action

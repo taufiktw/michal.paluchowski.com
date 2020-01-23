@@ -47,12 +47,12 @@ Don't expect miracles - most readers will still bounce back and head somewhere e
 
 Remember, **the Internet is forever** and [once you publish something][mpifyoudontappear], everybody's free to link, index and bookmark that piece of content. Help them find it back - by any means *they* choose - and you'll be building relationships that last.
 
-[mpifyoudontappear]: {{< ref "if-you-dont-appear-you-disappear/index.md" >}}
+[mpifyoudontappear]: {{< ref"posts/if-you-dont-appear-you-disappear/index.md" >}}
 [awstats]: http://awstats.sourceforge.net/
 [pluginsaferedirect]: http://wordpress.org/plugins/safe-redirect-manager/
 [aulapolska]: http://www.aulapolska.pl/
 [wplinkrot]: http://en.wikipedia.org/wiki/Link_rot
-[mpwordpress]: {{< ref "living-with-wordpress/index.md" >}}
+[mpwordpress]: {{< ref"posts/living-with-wordpress/index.md" >}}
 [google301]: https://support.google.com/webmasters/answer/93633?hl=en
 
 *[CMS]: Content Management System

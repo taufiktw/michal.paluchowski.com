@@ -31,6 +31,6 @@ One can certainly also make the argument, that others' work is just as good a so
 It's complicated. There's no good number or even range of years one "should" spend in a single place. Not without considering the context of this time---the company, the people, the work and alternative opportunities. And in a world of abundant opportunities, such as the one we have now in IT, it's [crazy difficult to decide][mb-deciding-to-decide] whether and when to make a move.
 
 [github-stepstone-tech]: https://github.com/stepstone-tech
-[mb-deciding-to-decide]: {{< ref "deciding-to-decide-when-the-time-is-right/index.md" >}}
-[mb-searching-geek-heaven]: {{< ref "searching-for-geek-heaven/index.md" >}}
-[mb-talk-like-own-place]: {{< ref "talking-like-you-own-the-place/index.md" >}}
+[mb-deciding-to-decide]: {{< ref"posts/deciding-to-decide-when-the-time-is-right/index.md" >}}
+[mb-searching-geek-heaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
+[mb-talk-like-own-place]: {{< ref"posts/talking-like-you-own-the-place/index.md" >}}

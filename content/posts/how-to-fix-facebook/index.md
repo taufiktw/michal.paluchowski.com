@@ -21,8 +21,8 @@ In other words: provide everyone with feedback on how lousy their content is, no
 
 We already know how badly [everyone needs feedback][mpfeedback]. Both on the good and the bad things. It's a natural process in educational organizations like [Toastmasters][mptoastmasters], somewhat broken in corporations with their formal appraisals, and slowly crawling into general education with a [push by Bill Gates himself][tedbillg]. Time to get this working in social media.
 
-[mpfeedback]: {{< ref "feed-it-back/index.md" >}} "Feed it back"
-[mptoastmasters]: {{< ref "we-should-all-be-toastmasters/index.md" >}} "We should all be Toastmasters"
+[mpfeedback]: {{< ref"posts/feed-it-back/index.md" >}} "Feed it back"
+[mptoastmasters]: {{< ref"posts/we-should-all-be-toastmasters/index.md" >}} "We should all be Toastmasters"
 [tedbillg]: https://www.ted.com/talks/bill_gates_teachers_need_real_feedback "Bill Gates: Teachers Need Real Feedback"
 
 *[LOL]: Laugh Out Loud

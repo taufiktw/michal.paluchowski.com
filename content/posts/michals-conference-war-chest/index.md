@@ -105,13 +105,13 @@ We take a look at all materials with my colleagues to decide [what is most relev
 [apple-ipad-air2]: http://www.apple.com/ipad-air-2/
 [apple-ipad-mini]: http://www.apple.com/ipad-mini-4/
 [brain-rules-move]: http://www.brainrules.net/exercise
-[mp-agile]: {{< ref "what-does-it-mean-to-be-agile/index.md" >}}
-[mp-architects]: {{< ref "antique-inspirations-for-software-architects/index.md" >}}
-[mp-craftconf]: {{< ref "the-state-of-the-craft-at-craftconf-2015/index.md" >}}
-[mp-living-up]: {{< ref "365-days-of-living-up/index.md" >}}
-[mp-paper-big-future]: {{< ref "paper-has-a-big-future/index.md" >}}
-[mp-socrates]: {{< ref "the-unconference-experience-of-socrates-2014/index.md" >}}
-[mp-trusting-software]: {{< ref "trusting-software/index.md" >}}
+[mp-agile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
+[mp-architects]: {{< ref"posts/antique-inspirations-for-software-architects/index.md" >}}
+[mp-craftconf]: {{< ref"posts/the-state-of-the-craft-at-craftconf-2015/index.md" >}}
+[mp-living-up]: {{< ref"posts/365-days-of-living-up/index.md" >}}
+[mp-paper-big-future]: {{< ref"posts/paper-has-a-big-future/index.md" >}}
+[mp-socrates]: {{< ref"posts/the-unconference-experience-of-socrates-2014/index.md" >}}
+[mp-trusting-software]: {{< ref"posts/trusting-software/index.md" >}}
 [twitter-mpaluchowski]: https://twitter.com/mpaluchowski
 
 *[DDD]: Domain-Driven Design

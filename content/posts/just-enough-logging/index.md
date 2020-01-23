@@ -98,8 +98,8 @@ Make sure you have *explicit* logging configuration everywhere, even if some mod
 
 Thanks to Tim Barnett for [motivating me][timstweet] to write this post.
 
-[mbnoteveryone]: {{< ref "not-everyone-knows-what-theyre-talking-about/index.md" >}}
-[mbqafromvenus]: {{< ref "developers-are-from-mars-qa-are-from-venus/index.md" >}}
+[mbnoteveryone]: {{< ref"posts/not-everyone-knows-what-theyre-talking-about/index.md" >}}
+[mbqafromvenus]: {{< ref"posts/developers-are-from-mars-qa-are-from-venus/index.md" >}}
 [stackloglevels]: http://stackoverflow.com/a/8021604/121448
 [velocitybbc]: http://velocityconf.com/velocityeu2012/public/schedule/detail/25792
 [timstweet]: https://twitter.com/tgbarnett/status/445905567618711553

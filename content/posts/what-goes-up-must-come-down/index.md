@@ -48,7 +48,7 @@ For now I'm hoping my new band will accompany me longer than the previous one, a
 [ericwearablesreview]: http://www.ideasonideas.com/2013/02/are-wearables-the-change-we-need/
 [jawbonedataprocessing]: https://www.slashgear.com/jawbone-talks-context-in-bid-to-rule-wearables-slashgear-interview-06319626/
 [jawboneselldata]: https://www.refinery29.com/en-us/2014/01/61656/fitness-band-data-privacy
-[mplivingup]: {{< ref "365-days-of-living-up/index.md" >}}
+[mplivingup]: {{< ref"posts/365-days-of-living-up/index.md" >}}
 [twitterjawbonesupport]: https://twitter.com/JawboneSupport
 [twitterzachepstein]: https://twitter.com/zacharye
 [yhgivingupjawbone]: https://bgr.com/2013/08/15/jawbone-up-vs-fitbit-flex-review/
