@@ -40,11 +40,7 @@ To benefit from microservices without getting killed, you need to:
 * __monitor everything__---each service must have its own health checks, showing [whatever information is most relevant][mpenoughlogging]. Typically numbers of transactions, timings, latency, hardware utilization, but often also business KPIs. You'll also need a means to track requests flowing through the system, ie. by IDs being passed in service calls. This information must be available to development teams _in real time_.
 * __build for failure__---crashes, disconnections, load spikes, bugs, all of which will occur more often than with monoliths. Make sure failures are reported, tracked, and the system is self-healing, via techniques like circuit-breakers, bulkheads or resource pools. Work with business representatives to determine for each use case whether __consistency or availability__ are more important, because you cannot always offer both.
 
-Not everyone was pleased with such a high degree of saturation with microservice themes at CraftConf:
-
-{{< twitter 591533716939399168 >}}
-
-But that only proves that this architecture is well past the stage of early adoption and entering into the mainstream.
+Not everyone was pleased with such a high degree of saturation with microservice themes at CraftConf, but that only proves that this architecture is well past the stage of early adoption and entering into the mainstream.
 
 ## Everybody has an API
 
